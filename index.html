@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Agriculture - Revolutionizing Agriculture with AI and IoT</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            color: #2c3e50;
+        }
+        
+        /* Hero Section */
+        .hero-image {
+            background: radial-gradient(circle at center, rgb(16, 236, 23), rgb(85, 133, 103));
+            height: 70vh; /* Increased height for a more prominent effect */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+            box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
+            position: relative; /* Ensure text content is always centered */
+            overflow: hidden; /* Prevent content from spilling over */
+        }
+
+        /* Hero Content Text */
+        .hero-content h1 {
+            font-size: 4rem; /* Larger, more impactful heading */
+            font-weight: 800; /* Bolder text for greater prominence */
+            text-shadow: 3px 3px 12px rgba(159, 32, 32, 0.3); /* More pronounced shadow for depth */
+            margin-bottom: 20px;
+        }
+
+        .hero-content p {
+            font-size: 1.5rem; /* Increased font size for readability */
+            font-weight: 400;
+            text-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3); /* Soft text shadow for legibility */
+            color: white;
+        }
+
+        /* Intro Container */
+        .intro-container {
+            background-color: #ffffff; /* Crisp white background */
+            border-radius: 15px; /* More rounded corners for modern feel */
+            padding: 40px 50px; /* More spacious padding */
+            box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15); /* Larger shadow for depth */
+            max-width: 700px; /* Increased width for the form */
+            margin: auto; /* Center the container */
+        }
+
+        /* Header Text */
+        h3.text-center {
+            font-size: 36px; /* Larger heading text */
+            color: #2e7d32; /* Green color for freshness */
+            font-weight: 700; 
+            margin-bottom: 20px;
+        }
+
+        /* Paragraph Text */
+        p.text-center {
+            font-size: 18px;
+            color: #555; 
+            margin-bottom: 30px;
+        }
+
+        /* Form Styling */
+        .form-group {
+            margin-bottom: 25px; /* Increased space between form groups */
+        }
+
+        /* Label Styling */
+        label {
+            font-size: 18px; /* Larger label text for readability */
+            color: #333;
+            font-weight: 600;
+            display: block;
+            margin-bottom: 10px; /* More space between label and input */
+        }
+
+        /* Input Fields */
+        .form-control {
+            font-size: 20px; /* Larger font size for better readability */
+            padding: 12px 15px; /* Increased padding for form fields */
+            width: 100%; /* Full width of the container */
+            border-radius: 10px; /* Rounder edges */
+            border: 1px solid #ddd;
+            background-color: #fafafa;
+            transition: all 0.3s ease; /* Smooth transition */
+        }
+
+        .form-control:focus {
+            border-color: #0288d1; /* Focused border color */
+            box-shadow: 0 0 10px rgba(0, 136, 255, 0.4);
+            background-color: #fff; /* Change background on focus */
+        }
+
+        /* Submit Button Styling */
+        .cta-button {
+            background-color: #28a745; 
+            color: white;
+            font-size: 20px; 
+            padding: 15px 40px; /* Larger padding for a bolder button */
+            border: none;
+            border-radius: 30px; 
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        .cta-button:hover {
+            background-color: #218838;
+            transform: translateY(-5px); /* Slight hover lift */
+        }
+
+        /* Button Centering */
+        .text-center {
+            text-align: center;
+            margin-top: 30px; /* More space above the button */
+        }
+
+        /* Spacing adjustments for responsive design */
+        @media (max-width: 768px) {
+            .intro-container {
+                padding: 20px;
+                width: 90%; 
+            }
+
+            h3.text-center {
+                font-size: 30px; 
+            }
+
+            p.text-center {
+                font-size: 16px;
+            }
+
+            .cta-button {
+                font-size: 18px;
+                padding: 12px 30px; 
+            }
+        }
+
+        /* Recommendation Container */
+        .recommendation-container {
+            background: linear-gradient(135deg, #e0f7fa, #80deea);
+            border-radius: 15px;
+            padding: 50px 60px; 
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15); 
+            margin-top: 50px;
+            transition: all 0.3s ease;
+        }
+
+        .recommendation-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+        }
+
+        .recommendation-container h4 {
+            color: #2e7d32;
+            font-size: 38px;
+            font-weight: 700;
+            margin-bottom: 40px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Recommendation Content */
+        .recommendation-content {
+            font-size: 26px;
+            line-height: 1.8;
+            color: #212121;
+        }
+
+        .recommendation-content span {
+            font-weight: 600;
+            color: #0288d1;
+            transition: color 0.3s ease;
+        }
+
+        .recommendation-content span:hover {
+            color: #01579b;
+        }
+
+        /* Alert Box inside Recommendations */
+        .recommendation-container .alert {
+            background-color: #f1f8e9;
+            border-radius: 12px;
+            border-left: 5px solid #2e7d32;
+            padding: 30px;
+            margin-bottom: 40px;
+        }
+
+        /* Preformatted Text */
+        .recommendation-container pre {
+            background-color: #fafafa;
+            padding: 30px;
+            border-radius: 12px;
+            font-size: 24px;
+            color: #424242;
+            border: 1px solid #ccc;
+        }
+
+        .recommendation-container pre:hover {
+            background-color: #e0e0e0;
+            border-color: #0288d1;
+        }  
+        /* Increase Tab Font Size */
+        .nav-tabs .nav-link {
+            font-size: 18px;  /* Larger font size for the tab text */
+            padding: 15px 30px;  /* Adjust padding to increase tab height and width */
+            line-height: 1.5;  /* Improve line height for better readability */
+        }
+
+        /* Set Tab Width */
+        .nav-tabs .nav-link {
+            width: auto;  /* Adjust width to auto or any specific size */
+            text-align: center;  /* Center align the text inside the tab */
+        }
+
+        /* Modal Dialog - Increase modal size */
+        .modal-dialog {
+            max-width: 80%;  /* Make modal wider */
+            margin: 30px auto;  /* Center modal on the screen */
+        }
+
+        /* Optional: Make Tabs Responsive */
+        @media (max-width: 768px) {
+            .nav-tabs .nav-link {
+                font-size: 14px; /* Smaller font size on smaller screens */
+                padding: 10px 20px; /* Adjust padding on smaller screens */
+            }
+        }
+
+        /* Add some margin for the modal content */
+        .modal-content {
+            padding: 20px;
+        }
+
+        /* Styling the modal header */
+        .modal-header {
+            background-color: #f1f1f1;
+            padding: 15px;
+            border-bottom: 2px solid #ddd;
+        }
+
+        /* Style for modal title */
+        .modal-title {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        /* Style for modal close button */
+        .close {
+            font-size: 24px;
+            color: #000;
+            opacity: 1;
+        }
+
+        /* Style the modal body for content */
+        .modal-body {
+            padding: 20px;
+            font-size: 16px;
+        }  
+        
+        .footer-copyright {
+            color: white;
+        }
+
+        .footer-copyright h5 {
+            margin: 0;
+            font-size: 1rem;
+        }
+
+        .footer-copyright .text-uppercase {
+            font-weight: 600;
+            letter-spacing: 1.5px;
+        }
+
+        /* Modal Custom Styling */
+        .modal-header {
+            background-color: #27ae60;
+            color: white;
+        }
+
+        .modal-footer {
+            background-color:rgb(5, 5, 5);
+        }
+        #hydroponics-result {
+            font-weight: bold;
+            font-family: 'Arial', sans-serif;
+            font-size: 1.2em;
+            color: #2e8b57;
+            background-color: #f0f8ff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 2px solid #2e8b57;
+          }
+          #market-result {
+            font-weight: bold;
+            font-family: 'Arial', sans-serif;
+            font-size: 1.2em;
+            color: #2e8b57;
+            background-color: #f0f8ff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 2px solid #2e8b57;
+          }
+          #large-scale-result {
+            font-weight: bold;
+            font-family: 'Arial', sans-serif;
+            font-size: 1.2em;
+            color: #2e8b57;
+            background-color: #f0f8ff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 2px solid #2e8b57;
+          }
+          #home-result{
+            font-weight: bold;
+            font-family: 'Arial', sans-serif;
+            font-size: 1.2em;
+            color: #2e8b57;
+            background-color: #f0f8ff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 2px solid #2e8b57;
+          }
+          #exotic-result {
+            font-weight: bold;
+            font-family: 'Arial', sans-serif;
+            font-size: 1.2em;
+            color: #2e8b57;
+            background-color: #f0f8ff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 2px solid #2e8b57;
+          }
+          footer {
+            background-color: black;
+            color: white;
+            font-size: 1.5em; /* Big text */
+            text-align: center;
+            padding: 20px 0;
+          }
+        
+          footer p {
+            margin: 0;
+          }
+
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <div class="hero-image">
+        <div class="hero-content">
+            <h1>Smart Agriculture - Revolutionizing Agriculture with AI and IoT</h1>
+            <p>Your Perfect Planting Solution</p>
+        </div>
+    </div>
+
+    <h2>Smart Hydroponics Hub</h2>
+    <form id="hydroponics-form">
+        <div class="form-group">
+            <label for="space">Space Availability</label>
+            <select class="form-control" id="space" name="space" required>
+                <option value="Residential">Residential</option>
+                <option value="Commercial">Commercial</option>
+            </select>
+        </div>
+    
+        <div class="form-group">
+            <label for="location">Location</label>
+            <select class="form-control" id="location" name="location" required>
+                <option value="Indoor">Indoor</option>
+                <option value="Outdoor">Outdoor</option>
+            </select>
+        </div>
+    
+        <div class="form-group">
+            <label for="plant-type">Plant Type</label>
+            <select class="form-control" id="plant-type" name="plant-type" required>
+                <option value="Small">Small</option>
+                <option value="Large">Large</option>
+            </select>
+        </div>
+    
+        <div class="form-group">
+            <label for="growth-type">Growth Type</label>
+            <select class="form-control" id="growth-type" name="growth-type" required>                
+                <option value="Temperate">Temperate</option>
+                <option value="Tropical">Tropical</option>
+            </select>
+        </div>
+    
+        <div class="form-group">
+            <label for="budget">Budget</label>
+            <select class="form-control" id="budget" name="budget" required>                
+                <option value="Low budget">Low budget</option>
+                <option value="Large budget">Large budget</option>
+            </select>
+        </div>
+    
+        <div class="form-group">
+            <label for="aesthetic">Aesthetic Feature</label>
+            <select class="form-control" id="aesthetic" name="aesthetic" required>                
+                <option value="Edible">Edible</option>
+                <option value="Decorative">Decorative</option>
+            </select>
+        </div>
+    
+        <button type="submit" class="cta-button">Predict</button>
+    </form>
+    
+    <pre id="hydroponics-result"></pre>
+
+
+    <h2>AgriMarket Insights</h2>
+    <form id="market-form">
+        <div class="form-group">
+            <label for="crop">Enter Crop Name:</label>
+            <select class="form-control" id="crop" name="crop" required>
+                <option value="" disabled selected>Select Crop</option>
+                <option value="Wheat">Wheat</option>
+                <option value="Rice">Rice</option>
+                <option value="Corn">Corn</option>
+                <option value="Soybeans">Soybeans</option>
+                <option value="Barley">Barley</option>
+                <option value="Sunflower">Sunflower</option>
+                <option value="Potatoes">Potatoes</option>
+                <option value="Grapes">Grapes</option>
+                <option value="Cotton">Cotton</option>
+                <option value="Coffee">Coffee</option>
+                <option value="Maize">Maize</option>
+                <option value="Rubber">Rubber</option>
+                <option value="Palm Oil">Palm Oil</option>
+                <option value="Pepper">Pepper</option>
+                <option value="Citrus Fruits">Citrus Fruits</option>
+                <option value="Tomatoes">Tomatoes</option>
+                <option value="Bananas">Bananas</option>
+                <option value="Avocados">Avocados</option>
+                <option value="Almonds">Almonds</option>
+                <option value="Cocoa">Cocoa</option>
+            </select>
+        </div>
+        <button type="submit" class="cta-button">Predict</button>
+    </form>
+    
+    <pre id="market-result"></pre>
+    
+    
+
+<h2>Large-Scale AgriTech</h2>
+<form id="large-scale-form">
+    <div class="form-group">
+        <label for="size">Average Size:</label>
+        <select class="form-control" id="size" name="size" required>            
+            <option value="Less than 10 acres">Less than 10 acres</option>
+            <option value="10 to 100 acres">10 to 100 acres</option>
+            <option value="More than 100 acres">More than 100 acres</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="climate">Climate:</label>
+        <select class="form-control" id="climate" name="climate" required>            
+            <option value="Tropical">Tropical</option>
+            <option value="Temperate">Temperate</option>
+            <option value="Arid">Arid</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="soil">Soil Type:</label>
+        <select class="form-control" id="soil" name="soil" required>            
+            <option value="Loamy Soil">Loamy Soil</option>
+            <option value="Clayey Soil">Clayey Soil</option>
+            <option value="Sandy Soil">Sandy Soil</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="experience">Experience:</label>
+        <select class="form-control" id="experience" name="experience" required>           
+            <option value="New for Farming">New for Farming</option>
+            <option value="Successful">Successful</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="labour">Labour Requirement:</label>
+        <select class="form-control" id="labour" name="labour" required>            
+            <option value="Medium">Medium</option>
+            <option value="High">High</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="irrigation">Irrigation System:</label>
+        <select class="form-control" id="irrigation" name="irrigation" required>            
+            <option value="Fully Irrigated">Fully Irrigated</option>
+            <option value="Partial Irrigation">Partial Irrigation</option>
+            <option value="Rain-fed">Rain-fed</option>
+        </select>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="cta-button">Predict</button>
+    </div>
+</form>
+
+<pre id="large-scale-result"></pre>
+
+<h2 class="text-center">Guide to Exotic Flora</h2> 
+    <form id="exotic-form" >
+        <div class="form-group">
+            <label for="maintenance">Maintenance Level</label>
+            <select class="form-control" id="maintenance" name="maintenance" required>                
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="water">Water Requirement</label>
+            <select class="form-control" id="water" name="water" required>                
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="growth">Growth Habit</label>
+            <select class="form-control" id="growth" name="growth" required>                
+                <option value="Tree">Tree</option>
+                <option value="Shrub">Shrub</option>
+                <option value="Vine">Vine</option>
+                <option value="Ground cover">Ground Cover</option>
+                <option value="Herbaceous">Herbaceous</option>
+                <option value="Grass">Grass</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="size">Size and Height</label>
+            <select class="form-control" id="size" name="size" required>                
+                <option value="Small">Small</option>
+                <option value="Medium">Medium</option>
+                <option value="Dwarf">Dwarf</option>
+                <option value="Large">Large</option>
+                <option value="Tall">Tall</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="uses">Usage</label>
+            <select class="form-control" id="uses" name="uses" required>               
+                <option value="Ornamental">Ornamental</option>
+                <option value="Medicinal">Medicinal</option>
+                <option value="Commercial">Commercial</option>
+            </select>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="cta-button">Predict</button>
+        </div>
+    </form>
+
+    <pre id="exotic-result" class="mt-3 text-center font-weight-bold"></pre>
+</div>    
+
+<h2 class="text-center">Urban Green Spaces</h2>
+<form id="home-form">
+    <div class="form-group">
+        <label for="sunlight">Sunlight:</label>
+        <select class="form-control" id="sunlight" name="sunlight" required>            
+            <option value="High">High</option>
+            <option value="Low">Low</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="watering">Watering:</label>
+        <select class="form-control" id="watering" name="watering" required>           
+            <option value="High">High</option>
+            <option value="Low">Low</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="maintenance-home">Maintenance:</label>
+        <select class="form-control" id="maintenance-home" name="maintenance-home" required>            
+            <option value="High">High</option>
+            <option value="Low">Low</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="plant-size">Plant Size:</label>
+        <select class="form-control" id="plant-size" name="plant-size" required>            
+            <option value="Large">Large</option>
+            <option value="Small">Small</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="growth-type">Growth Type:</label>
+        <select class="form-control" id="growth-type" name="growth-type" required>            
+            <option value="Small">Small</option>
+            <option value="Big">Big</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="aesthetic-home">Aesthetic Feature:</label>
+        <select class="form-control" id="aesthetic-home" name="aesthetic-home" required>           
+            <option value="Edible">Edible</option>
+            <option value="Decorative">Decorative</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="weather">Weather:</label>
+        <select class="form-control" id="weather" name="weather" required>            
+            <option value="Tropical">Tropical</option>
+            <option value="Temperate">Temperate</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="locations">Locations:</label>
+        <select class="form-control" id="locations" name="locations" required>            
+            <option value="Indoor">Indoor</option>
+            <option value="Outdoor">Outdoor</option>
+        </select>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="cta-button">Predict</button>
+    </div>
+</form>
+
+<pre id="home-result" class="mt-3 text-center font-weight-bold"></pre>
+
+</form>
+
+<footer>
+    <p>© 2025 Smart Agriculture - All Rights Reserved</p>
+</footer>
+
+
+    <script>
+        async function postData(url, data, resultId) {
+            let response = await fetch(url, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data)
+            });
+            let result = await response.json();
+            document.getElementById(resultId).innerText = JSON.stringify(result, null, 2);
+        }
+
+        document.getElementById("exotic-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            let data = {
+                "Maintenance": document.getElementById("maintenance").value,
+                "Water Requirement": document.getElementById("water").value,
+                "Growth Habit": document.getElementById("growth").value,
+                "Size and Height": document.getElementById("size").value,
+                "Uses": document.getElementById("uses").value
+            };
+            postData("/predict_exotic", data, "exotic-result");
+        });
+
+        document.getElementById("home-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            let data = {
+                "Sunlight": document.getElementById("sunlight").value,
+                "Watering": document.getElementById("watering").value,
+                "Maintenance": document.getElementById("maintenance-home").value,
+                "Plant Size": document.getElementById("plant-size").value,
+                "Growth Type": document.getElementById("growth-type").value,
+                "Aesthetic Feature": document.getElementById("aesthetic-home").value,
+                "Weather": document.getElementById("weather").value,
+                "Locations": document.getElementById("locations").value
+            };
+            postData("/predict_home", data, "home-result");
+        });
+            async function postData(url, data, resultId) {
+            let response = await fetch(url, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data)
+            });
+            let result = await response.json();
+            document.getElementById(resultId).innerText = JSON.stringify(result, null, 2);
+        }
+
+        document.getElementById("hydroponics-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            let data = {
+                "Space Availability": document.getElementById("space").value,
+                "Location": document.getElementById("location").value,
+                "Plant Type": document.getElementById("plant-type").value,
+                "Growth Type": document.getElementById("growth-type").value,
+                "Budget": document.getElementById("budget").value,
+                "Aesthetic Feature": document.getElementById("aesthetic").value
+            };
+            postData("/predict_hydroponics", data, "hydroponics-result");
+        });
+
+        document.getElementById("market-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            let data = { "crop": document.getElementById("crop").value };
+            postData("/predict_market", data, "market-result");
+        });
+
+        document.getElementById("large-scale-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            let data = {
+                "Average Size": document.getElementById("size").value,
+                "Climate": document.getElementById("climate").value,
+                "Soil Type": document.getElementById("soil").value,
+                "Experience": document.getElementById("experience").value,
+                "Labour Requirement": document.getElementById("labour").value,
+                "Irrigation System": document.getElementById("irrigation").value
+            };
+            postData("/predict_large_scale", data, "large-scale-result");
+        });
+    </script>
+</body>
+</html>
