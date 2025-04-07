@@ -1,0 +1,1297 @@
+Average Size,Climate,Soil Type,Experience,Labour Requirement,Irrigation System,Pest and Disease Resistance,Crop Yield Potential,Recommended Plant
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Paddy
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Wheat
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Potato
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Tomato
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Corn
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Barley
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Carrot
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Onion
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Sugarcane
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Soybean
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Cabbage
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Cauliflower
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Spinach
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Lettuce
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Peas
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Chickpeas
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Lentils
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Mustard
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Sunflower
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Groundnut
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Cotton
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Millet
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Sorghum
+Less than 10 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Rice
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Oats
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Rye
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Banana
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Mango
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Apple
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Grapes
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Orange
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Papaya
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Pineapple
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Strawberry
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Blueberry
+Less than 10 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Raspberry
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Watermelon
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Cucumber
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Low,High,Pumpkin
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Zucchini
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Bell Pepper
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Chili Pepper
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Brinjal (Eggplant)
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Radish
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Beetroot
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Garlic
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Ginger
+Less than 10 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Turmeric
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Basil
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Coriander
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Parsley
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Thyme
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Rosemary
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Lavender
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Tea
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Coffee
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Cocoa
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Cashew
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Almond
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Pistachio
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Walnut
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Coconut
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Sesame
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Flaxseed
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Jute
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Rubber
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Vanilla
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Cardamom
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Clove
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Nutmeg
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Pepper
+Less than 10 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Fenugreek
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Fennel
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Celery
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Asparagus
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Okra
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Bitter Gourd
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Sweet Potato
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Yam
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Taro
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Pear
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Guava
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Lychee
+Less than 10 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Pomegranate
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Fig
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Apricot
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Low,High,Peach
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Cherry
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Plum
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Kiwi
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Dragon Fruit
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Jackfruit
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Persimmon
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Date Palm
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Mulberry
+Less than 10 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Gooseberry
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Elderberry
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Blackberry
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Hazelnut
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Macadamia
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Saffron
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Cumin
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Anise
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Caraway
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Dill
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Hemp
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Aloe Vera
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Eucalyptus
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Ginseng
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Yerba Mate
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Paddy
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Wheat
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Potato
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Tomato
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Corn
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Barley
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Carrot
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Onion
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Sugarcane
+Less than 10 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Soybean
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Cabbage
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Cauliflower
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Spinach
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Lettuce
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Peas
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Chickpeas
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Lentils
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Mustard
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Sunflower
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Groundnut
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Cotton
+Less than 10 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Millet
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Sorghum
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Rice
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Low,High,Oats
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Rye
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Banana
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Mango
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Apple
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Grapes
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Orange
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Papaya
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Pineapple
+Less than 10 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Strawberry
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Blueberry
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Raspberry
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Watermelon
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Cucumber
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Pumpkin
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Zucchini
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Bell Pepper
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Chili Pepper
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Brinjal (Eggplant)
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Radish
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Beetroot
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Garlic
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Ginger
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Turmeric
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Basil
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Coriander
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Parsley
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Thyme
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Rosemary
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Lavender
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Tea
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Coffee
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Cocoa
+Less than 10 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Cashew
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Almond
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Pistachio
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Walnut
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Coconut
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Sesame
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Flaxseed
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Jute
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Rubber
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Vanilla
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Cardamom
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Clove
+Less than 10 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Nutmeg
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Pepper
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Fenugreek
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Low,High,Fennel
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Celery
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Asparagus
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Okra
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Bitter Gourd
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Sweet Potato
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Yam
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Taro
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Pear
+Less than 10 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Guava
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Lychee
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Pomegranate
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Fig
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Apricot
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Peach
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Cherry
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Plum
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Kiwi
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Dragon Fruit
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Jackfruit
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Persimmon
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Date Palm
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Mulberry
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Gooseberry
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Elderberry
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Blackberry
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Hazelnut
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Macadamia
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Saffron
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Cumin
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Anise
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Caraway
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Dill
+Less than 10 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Hemp
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Aloe Vera
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Eucalyptus
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Ginseng
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Yerba Mate
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Paddy
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Wheat
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Potato
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Tomato
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Corn
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Barley
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Carrot
+Less than 10 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Onion
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Sugarcane
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Soybean
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Low,High,Cabbage
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Cauliflower
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Spinach
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Lettuce
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Peas
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Chickpeas
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Lentils
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Mustard
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Sunflower
+Less than 10 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Groundnut
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Cotton
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Millet
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Sorghum
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Rice
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Oats
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Rye
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Banana
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Mango
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Apple
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Grapes
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Orange
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Papaya
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Pineapple
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Strawberry
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Blueberry
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Raspberry
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Watermelon
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Cucumber
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Pumpkin
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Zucchini
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Bell Pepper
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Chili Pepper
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Brinjal (Eggplant)
+Less than 10 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Radish
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Beetroot
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Garlic
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Ginger
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Turmeric
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Basil
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Coriander
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Parsley
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Thyme
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Rosemary
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Lavender
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Tea
+Less than 10 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Coffee
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Cocoa
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Cashew
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Low,High,Almond
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Pistachio
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Walnut
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Coconut
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Sesame
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Flaxseed
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Jute
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Rubber
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Vanilla
+Less than 10 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Cardamom
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Clove
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Nutmeg
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Pepper
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Fenugreek
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Fennel
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Celery
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Asparagus
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Okra
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Bitter Gourd
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Sweet Potato
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Yam
+Less than 10 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Taro
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Pear
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Guava
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Lychee
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Pomegranate
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Fig
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Apricot
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Peach
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Cherry
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Plum
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Kiwi
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Dragon Fruit
+Less than 10 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Jackfruit
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Persimmon
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Date Palm
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Mulberry
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Gooseberry
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Elderberry
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Blackberry
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Hazelnut
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Macadamia
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Saffron
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Cumin
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Anise
+Less than 10 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Caraway
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Dill
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Hemp
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Low,High,Aloe Vera
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Eucalyptus
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Ginseng
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Yerba Mate
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Paddy
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Wheat
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Potato
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Tomato
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Corn
+Less than 10 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Barley
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Carrot
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Onion
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Sugarcane
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Soybean
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Cabbage
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Cauliflower
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Spinach
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Lettuce
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Peas
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Chickpeas
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Lentils
+Less than 10 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Mustard
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Sunflower
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Groundnut
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Cotton
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Millet
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Sorghum
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Rice
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Oats
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Rye
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Banana
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Mango
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Apple
+Less than 10 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Grapes
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Orange
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Papaya
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Pineapple
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Strawberry
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Blueberry
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Raspberry
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Watermelon
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Cucumber
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Pumpkin
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Zucchini
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Bell Pepper
+Less than 10 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Chili Pepper
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Brinjal (Eggplant)
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Radish
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Low,High,Beetroot
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Garlic
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Ginger
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Turmeric
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Basil
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Coriander
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Parsley
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Thyme
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Rosemary
+Less than 10 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Lavender
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Tea
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Coffee
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Cocoa
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Cashew
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Almond
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Pistachio
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Walnut
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Coconut
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Sesame
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Flaxseed
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Jute
+Less than 10 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Rubber
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Vanilla
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Cardamom
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Clove
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Nutmeg
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Pepper
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Fenugreek
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Fennel
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Celery
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Asparagus
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Okra
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Bitter Gourd
+Less than 10 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Sweet Potato
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Yam
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Taro
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Pear
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Guava
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Lychee
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Pomegranate
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Fig
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Apricot
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Peach
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Cherry
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Plum
+Less than 10 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Kiwi
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Dragon Fruit
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Jackfruit
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Low,High,Persimmon
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Date Palm
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Mulberry
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Gooseberry
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Elderberry
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Blackberry
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Hazelnut
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Macadamia
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Saffron
+Less than 10 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Cumin
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Anise
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Caraway
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Dill
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Hemp
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Aloe Vera
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Eucalyptus
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Ginseng
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Yerba Mate
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Paddy
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Wheat
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Potato
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Tomato
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Corn
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Barley
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Carrot
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Onion
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Sugarcane
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Soybean
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Cabbage
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Cauliflower
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Spinach
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Lettuce
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Peas
+10 to 100 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Chickpeas
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Lentils
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Mustard
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Sunflower
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Groundnut
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Cotton
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Millet
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Sorghum
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Rice
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Oats
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Rye
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Banana
+10 to 100 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Mango
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Apple
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Grapes
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Low,High,Orange
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Papaya
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Pineapple
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Strawberry
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Blueberry
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Raspberry
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Watermelon
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Cucumber
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Pumpkin
+10 to 100 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Zucchini
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Bell Pepper
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Chili Pepper
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Brinjal (Eggplant)
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Radish
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Beetroot
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Garlic
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Ginger
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Turmeric
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Basil
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Coriander
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Parsley
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Thyme
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Rosemary
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Lavender
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Tea
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Coffee
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Cocoa
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Cashew
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Almond
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Pistachio
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Walnut
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Coconut
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Sesame
+10 to 100 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Flaxseed
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Jute
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Rubber
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Vanilla
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Cardamom
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Clove
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Nutmeg
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Pepper
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Fenugreek
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Fennel
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Celery
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Asparagus
+10 to 100 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Okra
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Bitter Gourd
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Sweet Potato
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Low,High,Yam
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Taro
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Pear
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Guava
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Lychee
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Pomegranate
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Fig
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Apricot
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Peach
+10 to 100 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Cherry
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Plum
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Kiwi
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Dragon Fruit
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Jackfruit
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Persimmon
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Date Palm
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Mulberry
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Gooseberry
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Elderberry
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Blackberry
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Hazelnut
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Macadamia
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Saffron
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Cumin
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Anise
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Caraway
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Dill
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Hemp
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Aloe Vera
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Eucalyptus
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Ginseng
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Yerba Mate
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Paddy
+10 to 100 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Wheat
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Potato
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Tomato
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Corn
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Barley
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Carrot
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Onion
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Sugarcane
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Soybean
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Cabbage
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Cauliflower
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Spinach
+10 to 100 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Lettuce
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Peas
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Chickpeas
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Low,High,Lentils
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Mustard
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Sunflower
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Groundnut
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Cotton
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Millet
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Sorghum
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Rice
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Oats
+10 to 100 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Rye
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Banana
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Mango
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Apple
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Grapes
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Orange
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Papaya
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Pineapple
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Strawberry
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Blueberry
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Raspberry
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Watermelon
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Cucumber
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Pumpkin
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Zucchini
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Bell Pepper
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Chili Pepper
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Brinjal (Eggplant)
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Radish
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Beetroot
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Garlic
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Ginger
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Turmeric
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Basil
+10 to 100 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Coriander
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Parsley
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Thyme
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Rosemary
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Lavender
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Tea
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Coffee
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Cocoa
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Cashew
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Almond
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Pistachio
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Walnut
+10 to 100 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Coconut
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Sesame
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Flaxseed
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Low,High,Jute
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Rubber
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Vanilla
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Cardamom
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Clove
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Nutmeg
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Pepper
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Fenugreek
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Fennel
+10 to 100 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Celery
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Asparagus
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Okra
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Bitter Gourd
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Sweet Potato
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Yam
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Taro
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Pear
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Guava
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Lychee
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Pomegranate
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Fig
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Apricot
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Peach
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Cherry
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Plum
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Kiwi
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Dragon Fruit
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Jackfruit
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Persimmon
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Date Palm
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Mulberry
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Gooseberry
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Elderberry
+10 to 100 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Blackberry
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Hazelnut
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Macadamia
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Saffron
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Cumin
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Anise
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Caraway
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Dill
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Hemp
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Aloe Vera
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Eucalyptus
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Ginseng
+10 to 100 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Yerba Mate
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Paddy
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Wheat
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Low,High,Potato
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Tomato
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Corn
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Barley
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Carrot
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Onion
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Sugarcane
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Soybean
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Cabbage
+10 to 100 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Cauliflower
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Spinach
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Lettuce
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Peas
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Chickpeas
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Lentils
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Mustard
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Sunflower
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Groundnut
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Cotton
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Millet
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Sorghum
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Rice
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Oats
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Rye
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Banana
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Mango
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Apple
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Grapes
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Orange
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Papaya
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Pineapple
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Strawberry
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Blueberry
+10 to 100 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Raspberry
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Watermelon
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Cucumber
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Pumpkin
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Zucchini
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Bell Pepper
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Chili Pepper
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Brinjal (Eggplant)
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Radish
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Beetroot
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Garlic
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Ginger
+10 to 100 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Turmeric
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Basil
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Coriander
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Low,High,Parsley
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Thyme
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Rosemary
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Lavender
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Tea
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Coffee
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Cocoa
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Cashew
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Almond
+10 to 100 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Pistachio
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Walnut
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Coconut
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Sesame
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Flaxseed
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Jute
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Rubber
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Vanilla
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Cardamom
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Clove
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Nutmeg
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Pepper
+10 to 100 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Fenugreek
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Fennel
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Celery
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Asparagus
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Okra
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Bitter Gourd
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Sweet Potato
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Yam
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Taro
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Pear
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Guava
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Lychee
+10 to 100 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Pomegranate
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Fig
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Apricot
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Peach
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Cherry
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Plum
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Kiwi
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Dragon Fruit
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Jackfruit
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Persimmon
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Date Palm
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Mulberry
+10 to 100 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Gooseberry
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Elderberry
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Blackberry
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Low,High,Hazelnut
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Macadamia
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Saffron
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Cumin
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Anise
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Caraway
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Dill
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Hemp
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Aloe Vera
+10 to 100 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Eucalyptus
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Ginseng
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Yerba Mate
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Paddy
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Wheat
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Potato
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Tomato
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Corn
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Barley
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Carrot
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Onion
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Sugarcane
+10 to 100 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Soybean
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Cabbage
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Cauliflower
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Spinach
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Lettuce
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Peas
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Chickpeas
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Lentils
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Mustard
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Sunflower
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Groundnut
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Cotton
+10 to 100 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Millet
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Sorghum
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Rice
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Oats
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Rye
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Banana
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Mango
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Apple
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Grapes
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Orange
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Papaya
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Pineapple
+10 to 100 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Strawberry
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Blueberry
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Raspberry
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Low,High,Watermelon
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Cucumber
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Pumpkin
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Zucchini
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Bell Pepper
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Chili Pepper
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Brinjal (Eggplant)
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Radish
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Beetroot
+10 to 100 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Garlic
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Ginger
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Turmeric
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Basil
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Coriander
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Parsley
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Thyme
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Rosemary
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Lavender
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Tea
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Coffee
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Cocoa
+10 to 100 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Cashew
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Almond
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Pistachio
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Walnut
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Coconut
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Sesame
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Flaxseed
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Jute
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Rubber
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Vanilla
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Cardamom
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Clove
+10 to 100 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Nutmeg
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Pepper
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Fenugreek
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Fennel
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Celery
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Asparagus
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Okra
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Bitter Gourd
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Sweet Potato
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Yam
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Taro
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Pear
+10 to 100 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Guava
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Lychee
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Pomegranate
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Low,High,Fig
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Apricot
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Peach
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Cherry
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Plum
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Kiwi
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Dragon Fruit
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Jackfruit
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Persimmon
+10 to 100 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Date Palm
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Mulberry
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Gooseberry
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Elderberry
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Blackberry
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Hazelnut
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Macadamia
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Saffron
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Cumin
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Anise
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Caraway
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Dill
+More than 100 acres,Tropical,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Hemp
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Aloe Vera
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Eucalyptus
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Ginseng
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Yerba Mate
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Paddy
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Wheat
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Potato
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Tomato
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Corn
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Barley
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Carrot
+More than 100 acres,Tropical,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Onion
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Sugarcane
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Soybean
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Cabbage
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Cauliflower
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Spinach
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Lettuce
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Peas
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Chickpeas
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Lentils
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Mustard
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Sunflower
+More than 100 acres,Tropical,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Groundnut
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Cotton
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Millet
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Low,High,Sorghum
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Rice
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Oats
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Rye
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Banana
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Mango
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Apple
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Grapes
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Orange
+More than 100 acres,Tropical,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Papaya
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Pineapple
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Strawberry
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Blueberry
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Raspberry
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Watermelon
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Cucumber
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Pumpkin
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Zucchini
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Bell Pepper
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Chili Pepper
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Brinjal (Eggplant)
+More than 100 acres,Tropical,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Radish
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Beetroot
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Garlic
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Ginger
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Turmeric
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Basil
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Coriander
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Parsley
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Thyme
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Rosemary
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Lavender
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Tea
+More than 100 acres,Tropical,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Coffee
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Cocoa
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Cashew
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Almond
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Pistachio
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Walnut
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Coconut
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Sesame
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Flaxseed
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Jute
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Rubber
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Vanilla
+More than 100 acres,Tropical,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Cardamom
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Clove
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Nutmeg
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Low,High,Pepper
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Fenugreek
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Fennel
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Celery
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Asparagus
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Okra
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Bitter Gourd
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Sweet Potato
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Yam
+More than 100 acres,Tropical,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Taro
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Pear
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Guava
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Lychee
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Pomegranate
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Fig
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Apricot
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Peach
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Cherry
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Plum
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Kiwi
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Dragon Fruit
+More than 100 acres,Tropical,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Jackfruit
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Persimmon
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Date Palm
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Mulberry
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Gooseberry
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Elderberry
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Blackberry
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Hazelnut
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Macadamia
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Saffron
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Cumin
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Anise
+More than 100 acres,Tropical,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Caraway
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Dill
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Hemp
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Aloe Vera
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Eucalyptus
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Ginseng
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Yerba Mate
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Paddy
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Wheat
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Potato
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Tomato
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Corn
+More than 100 acres,Tropical,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Barley
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Carrot
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Onion
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Low,High,Sugarcane
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Soybean
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Cabbage
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Cauliflower
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Spinach
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Lettuce
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Peas
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Chickpeas
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Lentils
+More than 100 acres,Tropical,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Mustard
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Sunflower
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Groundnut
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Cotton
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Millet
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Sorghum
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Rice
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Oats
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Rye
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Banana
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Mango
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Apple
+More than 100 acres,Temperate,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Grapes
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Orange
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Papaya
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Pineapple
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Strawberry
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Blueberry
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Raspberry
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Watermelon
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Cucumber
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Pumpkin
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Zucchini
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Bell Pepper
+More than 100 acres,Temperate,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Chili Pepper
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Brinjal (Eggplant)
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Radish
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Beetroot
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Garlic
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Ginger
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Turmeric
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Basil
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Coriander
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Parsley
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Thyme
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Rosemary
+More than 100 acres,Temperate,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Lavender
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Tea
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Coffee
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Low,High,Cocoa
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Cashew
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Almond
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Pistachio
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Walnut
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Coconut
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Sesame
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Flaxseed
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Jute
+More than 100 acres,Temperate,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Rubber
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Vanilla
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Cardamom
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Clove
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Nutmeg
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Pepper
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Fenugreek
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Fennel
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Celery
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Asparagus
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Okra
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Bitter Gourd
+More than 100 acres,Temperate,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Sweet Potato
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Yam
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Taro
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Pear
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Guava
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Lychee
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Pomegranate
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Fig
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Apricot
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Peach
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Cherry
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Plum
+More than 100 acres,Temperate,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Kiwi
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Dragon Fruit
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Jackfruit
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Persimmon
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Date Palm
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Mulberry
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Gooseberry
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Elderberry
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Blackberry
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Hazelnut
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Macadamia
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Saffron
+More than 100 acres,Temperate,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Cumin
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Anise
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Caraway
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Low,High,Dill
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Hemp
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Aloe Vera
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Eucalyptus
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Ginseng
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Yerba Mate
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Paddy
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Wheat
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Potato
+More than 100 acres,Temperate,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Tomato
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Corn
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Barley
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Carrot
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Onion
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Sugarcane
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Soybean
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Cabbage
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Cauliflower
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Spinach
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Lettuce
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Peas
+More than 100 acres,Temperate,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Chickpeas
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Lentils
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Mustard
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Sunflower
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Groundnut
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Cotton
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Millet
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Sorghum
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Rice
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Oats
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Rye
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Banana
+More than 100 acres,Temperate,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Mango
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Apple
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Grapes
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Orange
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Papaya
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Pineapple
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Strawberry
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Blueberry
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Raspberry
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Watermelon
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Cucumber
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Pumpkin
+More than 100 acres,Temperate,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Zucchini
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Bell Pepper
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Chili Pepper
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Low,High,Brinjal (Eggplant)
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Radish
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Beetroot
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Garlic
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Ginger
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Turmeric
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Basil
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Coriander
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Parsley
+More than 100 acres,Temperate,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Thyme
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Rosemary
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Lavender
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Low,High,Tea
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Coffee
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Cocoa
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Cashew
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Almond
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Pistachio
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Walnut
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Coconut
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Sesame
+More than 100 acres,Arid,Loamy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Flaxseed
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Moderate,High,Jute
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Rubber
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Low,High,Vanilla
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Rain-fed,Low,Medium,Cardamom
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Clove
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Nutmeg
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Low,High,Pepper
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Fenugreek
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Fennel
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Celery
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Low,High,Asparagus
+More than 100 acres,Arid,Loamy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Okra
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Moderate,High,Bitter Gourd
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Sweet Potato
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Low,High,Yam
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Rain-fed,Low,Medium,Taro
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Pear
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Guava
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Low,High,Lychee
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Pomegranate
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Fig
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Apricot
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Low,High,Peach
+More than 100 acres,Arid,Loamy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Cherry
+More than 100 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Moderate,High,Plum
+More than 100 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Moderate,Medium,Kiwi
+More than 100 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Low,High,Dragon Fruit
+More than 100 acres,Arid,Loamy Soil,Successful,High,Rain-fed,Low,Medium,Jackfruit
+More than 100 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Moderate,High,Persimmon
+More than 100 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Date Palm
+More than 100 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Low,High,Mulberry
+More than 100 acres,Arid,Loamy Soil,Successful,High,Partial Irrigation,Low,Medium,Gooseberry
+More than 100 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Moderate,High,Elderberry
+More than 100 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Blackberry
+More than 100 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Low,High,Hazelnut
+More than 100 acres,Arid,Loamy Soil,Successful,High,Fully Irrigated,Low,Medium,Macadamia
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,High,Saffron
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Cumin
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Low,High,Anise
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Rain-fed,Low,Medium,Caraway
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Dill
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Hemp
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,High,Aloe Vera
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Eucalyptus
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Ginseng
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Yerba Mate
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,High,Paddy
+More than 100 acres,Arid,Clayey Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Wheat
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Moderate,High,Potato
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Moderate,Medium,Tomato
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Low,High,Corn
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Rain-fed,Low,Medium,Barley
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,High,Carrot
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Onion
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Low,High,Sugarcane
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Partial Irrigation,Low,Medium,Soybean
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,High,Cabbage
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Cauliflower
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Low,High,Spinach
+More than 100 acres,Arid,Clayey Soil,New for Farming,High,Fully Irrigated,Low,Medium,Lettuce
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Moderate,High,Peas
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Moderate,Medium,Chickpeas
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Low,High,Lentils
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Rain-fed,Low,Medium,Mustard
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,High,Sunflower
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Groundnut
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Low,High,Cotton
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Partial Irrigation,Low,Medium,Millet
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,High,Sorghum
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Rice
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Low,High,Oats
+More than 100 acres,Arid,Clayey Soil,Successful,Medium,Fully Irrigated,Low,Medium,Rye
+More than 100 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Moderate,High,Banana
+More than 100 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Moderate,Medium,Mango
+More than 100 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Low,High,Apple
+More than 100 acres,Arid,Clayey Soil,Successful,High,Rain-fed,Low,Medium,Grapes
+More than 100 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Moderate,High,Orange
+More than 100 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Moderate,Medium,Papaya
+More than 100 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Low,High,Pineapple
+More than 100 acres,Arid,Clayey Soil,Successful,High,Partial Irrigation,Low,Medium,Strawberry
+More than 100 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Moderate,High,Blueberry
+More than 100 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Moderate,Medium,Raspberry
+More than 100 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Low,High,Watermelon
+More than 100 acres,Arid,Clayey Soil,Successful,High,Fully Irrigated,Low,Medium,Cucumber
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,High,Pumpkin
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Moderate,Medium,Zucchini
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Low,High,Bell Pepper
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Rain-fed,Low,Medium,Chili Pepper
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,High,Brinjal (Eggplant)
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Moderate,Medium,Radish
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,High,Beetroot
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Partial Irrigation,Low,Medium,Garlic
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,High,Ginger
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Moderate,Medium,Turmeric
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,High,Basil
+More than 100 acres,Arid,Sandy Soil,New for Farming,Medium,Fully Irrigated,Low,Medium,Coriander
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Moderate,High,Parsley
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Moderate,Medium,Thyme
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Low,High,Rosemary
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Rain-fed,Low,Medium,Lavender
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,High,Tea
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Moderate,Medium,Coffee
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Low,High,Cocoa
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Partial Irrigation,Low,Medium,Cashew
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,High,Almond
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Moderate,Medium,Pistachio
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Low,High,Walnut
+More than 100 acres,Arid,Sandy Soil,New for Farming,High,Fully Irrigated,Low,Medium,Coconut
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Moderate,High,Sesame
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Moderate,Medium,Flaxseed
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Low,High,Jute
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Rain-fed,Low,Medium,Rubber
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,High,Vanilla
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Moderate,Medium,Cardamom
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Low,High,Clove
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Partial Irrigation,Low,Medium,Nutmeg
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,High,Pepper
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Moderate,Medium,Fenugreek
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Low,High,Fennel
+More than 100 acres,Arid,Sandy Soil,Successful,Medium,Fully Irrigated,Low,Medium,Celery
+More than 100 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Moderate,High,Asparagus
+More than 100 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Moderate,Medium,Okra
+More than 100 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Low,High,Bitter Gourd
+More than 100 acres,Arid,Sandy Soil,Successful,High,Rain-fed,Low,Medium,Sweet Potato
+More than 100 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Moderate,High,Yam
+More than 100 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Moderate,Medium,Taro
+More than 100 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Low,High,Pear
+More than 100 acres,Arid,Sandy Soil,Successful,High,Partial Irrigation,Low,Medium,Guava
+More than 100 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Moderate,High,Lychee
+More than 100 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Moderate,Medium,Pomegranate
+More than 100 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Low,High,Fig
+More than 100 acres,Arid,Sandy Soil,Successful,High,Fully Irrigated,Low,Medium,Apricot

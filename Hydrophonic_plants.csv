@@ -1,0 +1,513 @@
+Space Availability,Location,Plant Type,Growth Type,Budget,Aesthetic Feature,Watering,Maintenance,Sunlight,Recommended Plant
+Residential,Indoor,Small,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Giant Cactus
+Residential,Indoor,Small,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Giant Lavender
+Residential,Indoor,Small,Tropical,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Variegated Venus Flytrap
+Residential,Indoor,Small,Tropical,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Spotted Jasmine
+Residential,Indoor,Small,Tropical,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Fragrant Willow
+Residential,Indoor,Small,Tropical,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Variegated Lavender
+Residential,Indoor,Small,Tropical,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Wild Basil
+Residential,Indoor,Small,Tropical,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Golden Jasmine
+Residential,Indoor,Small,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Silver Sunflower
+Residential,Indoor,Small,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Silver Aloe Vera
+Residential,Indoor,Small,Tropical,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Hybrid Zinnia
+Residential,Indoor,Small,Tropical,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Wild Quince
+Residential,Indoor,Small,Tropical,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Hybrid Lavender
+Residential,Indoor,Small,Tropical,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Wild Nasturtium
+Residential,Indoor,Small,Tropical,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Striped Xerophyte
+Residential,Indoor,Small,Tropical,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Variegated Daisy
+Residential,Indoor,Small,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Dwarf Sunflower
+Residential,Indoor,Small,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Golden Lavender
+Residential,Indoor,Small,Temperate,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Dwarf Cactus
+Residential,Indoor,Small,Temperate,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Silver Cactus
+Residential,Indoor,Small,Temperate,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Variegated Sunflower
+Residential,Indoor,Small,Temperate,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Striped Zinnia
+Residential,Indoor,Small,Temperate,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Giant Yucca
+Residential,Indoor,Small,Temperate,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Fragrant Kale
+Residential,Indoor,Small,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Variegated Jasmine
+Residential,Indoor,Small,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Wild Venus Flytrap
+Residential,Indoor,Small,Temperate,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Giant Daisy
+Residential,Indoor,Small,Temperate,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Variegated Orchid
+Residential,Indoor,Small,Temperate,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Striped Sunflower
+Residential,Indoor,Small,Temperate,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Silver Jasmine
+Residential,Indoor,Small,Temperate,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Silver Yucca
+Residential,Indoor,Small,Temperate,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Fragrant Orchid
+Residential,Indoor,Large,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Variegated Basil
+Residential,Indoor,Large,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Striped Ficus
+Residential,Indoor,Large,Tropical,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Golden Ivy
+Residential,Indoor,Large,Tropical,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Fragrant Nasturtium
+Residential,Indoor,Large,Tropical,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Spotted Venus Flytrap
+Residential,Indoor,Large,Tropical,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Fragrant Sunflower
+Residential,Indoor,Large,Tropical,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Giant Rose
+Residential,Indoor,Large,Tropical,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Striped Kale
+Residential,Indoor,Large,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Fragrant Venus Flytrap
+Residential,Indoor,Large,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Giant Geranium
+Residential,Indoor,Large,Tropical,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Spotted Ivy
+Residential,Indoor,Large,Tropical,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Dwarf Tulip
+Residential,Indoor,Large,Tropical,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Fragrant Lavender
+Residential,Indoor,Large,Tropical,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Variegated Palm
+Residential,Indoor,Large,Tropical,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Spotted Lavender
+Residential,Indoor,Large,Tropical,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Spotted Palm
+Residential,Indoor,Large,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Striped Quince
+Residential,Indoor,Large,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Hybrid Yucca
+Residential,Indoor,Large,Temperate,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Fragrant Daisy
+Residential,Indoor,Large,Temperate,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Hybrid Tulip
+Residential,Indoor,Large,Temperate,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Giant Ficus
+Residential,Indoor,Large,Temperate,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Striped Venus Flytrap
+Residential,Indoor,Large,Temperate,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Golden Rose
+Residential,Indoor,Large,Temperate,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Silver Geranium
+Residential,Indoor,Large,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Striped Hibiscus
+Residential,Indoor,Large,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Golden Cactus
+Residential,Indoor,Large,Temperate,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Giant Eucalyptus
+Residential,Indoor,Large,Temperate,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Golden Aloe Vera
+Residential,Indoor,Large,Temperate,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Fragrant Ficus
+Residential,Indoor,Large,Temperate,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Hybrid Mint
+Residential,Indoor,Large,Temperate,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Giant Palm
+Residential,Indoor,Large,Temperate,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Giant Willow
+Residential,Outdoor,Small,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Spotted Eucalyptus
+Residential,Outdoor,Small,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Dwarf Lavender
+Residential,Outdoor,Small,Tropical,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Spotted Hibiscus
+Residential,Outdoor,Small,Tropical,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Wild Orchid
+Residential,Outdoor,Small,Tropical,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Variegated Nasturtium
+Residential,Outdoor,Small,Tropical,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Golden Sunflower
+Residential,Outdoor,Small,Tropical,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Hybrid Basil
+Residential,Outdoor,Small,Tropical,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Silver Zinnia
+Residential,Outdoor,Small,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Fragrant Geranium
+Residential,Outdoor,Small,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Striped Umbrella Plant
+Residential,Outdoor,Small,Tropical,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Giant Tulip
+Residential,Outdoor,Small,Tropical,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Silver Venus Flytrap
+Residential,Outdoor,Small,Tropical,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Golden Ficus
+Residential,Outdoor,Small,Tropical,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Golden Kale
+Residential,Outdoor,Small,Tropical,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Variegated Quince
+Residential,Outdoor,Small,Tropical,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Golden Mint
+Residential,Outdoor,Small,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Hybrid Xerophyte
+Residential,Outdoor,Small,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Variegated Ivy
+Residential,Outdoor,Small,Temperate,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Wild Xerophyte
+Residential,Outdoor,Small,Temperate,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Spotted Sunflower
+Residential,Outdoor,Small,Temperate,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Giant Venus Flytrap
+Residential,Outdoor,Small,Temperate,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Wild Tulip
+Residential,Outdoor,Small,Temperate,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Golden Palm
+Residential,Outdoor,Small,Temperate,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Variegated Ficus
+Residential,Outdoor,Small,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Silver Xerophyte
+Residential,Outdoor,Small,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Hybrid Venus Flytrap
+Residential,Outdoor,Small,Temperate,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Wild Ficus
+Residential,Outdoor,Small,Temperate,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Fragrant Zinnia
+Residential,Outdoor,Small,Temperate,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Fragrant Jasmine
+Residential,Outdoor,Small,Temperate,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Golden Daisy
+Residential,Outdoor,Small,Temperate,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Spotted Zinnia
+Residential,Outdoor,Small,Temperate,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Spotted Xerophyte
+Residential,Outdoor,Large,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Striped Geranium
+Residential,Outdoor,Large,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Variegated Rose
+Residential,Outdoor,Large,Tropical,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Silver Hibiscus
+Residential,Outdoor,Large,Tropical,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Variegated Geranium
+Residential,Outdoor,Large,Tropical,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Striped Mint
+Residential,Outdoor,Large,Tropical,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Hybrid Jasmine
+Residential,Outdoor,Large,Tropical,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Wild Lavender
+Residential,Outdoor,Large,Tropical,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Dwarf Geranium
+Residential,Outdoor,Large,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Golden Geranium
+Residential,Outdoor,Large,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Variegated Aloe Vera
+Residential,Outdoor,Large,Tropical,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Silver Tulip
+Residential,Outdoor,Large,Tropical,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Fragrant Quince
+Residential,Outdoor,Large,Tropical,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Silver Basil
+Residential,Outdoor,Large,Tropical,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Fragrant Umbrella Plant
+Residential,Outdoor,Large,Tropical,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Wild Hibiscus
+Residential,Outdoor,Large,Tropical,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Giant Nasturtium
+Residential,Outdoor,Large,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Hybrid Geranium
+Residential,Outdoor,Large,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Fragrant Daisy
+Residential,Outdoor,Large,Temperate,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Golden Yucca
+Residential,Outdoor,Large,Temperate,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Silver Ivy
+Residential,Outdoor,Large,Temperate,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Fragrant Cactus
+Residential,Outdoor,Large,Temperate,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Golden Willow
+Residential,Outdoor,Large,Temperate,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Variegated Zinnia
+Residential,Outdoor,Large,Temperate,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Striped Orchid
+Residential,Outdoor,Large,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Silver Basil
+Residential,Outdoor,Large,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Fragrant Cactus
+Residential,Outdoor,Large,Temperate,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Variegated Kale
+Residential,Outdoor,Large,Temperate,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Golden Yucca
+Residential,Outdoor,Large,Temperate,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Giant Ficus
+Residential,Outdoor,Large,Temperate,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Dwarf Daisy
+Residential,Outdoor,Large,Temperate,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Golden Ivy
+Residential,Outdoor,Large,Temperate,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Striped Umbrella Plant
+Commercial,Indoor,Small,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Hybrid Aloe Vera
+Commercial,Indoor,Small,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Wild Lavender
+Commercial,Indoor,Small,Tropical,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Hybrid Aloe Vera
+Commercial,Indoor,Small,Tropical,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Striped Xerophyte
+Commercial,Indoor,Small,Tropical,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Wild Ivy
+Commercial,Indoor,Small,Tropical,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Variegated Ivy
+Commercial,Indoor,Small,Tropical,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Giant Quince
+Commercial,Indoor,Small,Tropical,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Golden Tulip
+Commercial,Indoor,Small,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Variegated Geranium
+Commercial,Indoor,Small,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Hybrid Venus Flytrap
+Commercial,Indoor,Small,Tropical,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Variegated Orchid
+Commercial,Indoor,Small,Tropical,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Silver Lavender
+Commercial,Indoor,Small,Tropical,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Variegated Willow
+Commercial,Indoor,Small,Tropical,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Silver Zinnia
+Commercial,Indoor,Small,Tropical,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Spotted Willow
+Commercial,Indoor,Small,Tropical,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Variegated Umbrella Plant
+Commercial,Indoor,Small,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Spotted Willow
+Commercial,Indoor,Small,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Hybrid Mint
+Commercial,Indoor,Small,Temperate,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Hybrid Aloe Vera
+Commercial,Indoor,Small,Temperate,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Giant Kale
+Commercial,Indoor,Small,Temperate,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Golden Xerophyte
+Commercial,Indoor,Small,Temperate,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Giant Zinnia
+Commercial,Indoor,Small,Temperate,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Dwarf Rose
+Commercial,Indoor,Small,Temperate,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Golden Ivy
+Commercial,Indoor,Small,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Fragrant Tulip
+Commercial,Indoor,Small,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Wild Umbrella Plant
+Commercial,Indoor,Small,Temperate,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Fragrant Xerophyte
+Commercial,Indoor,Small,Temperate,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Dwarf Yucca
+Commercial,Indoor,Small,Temperate,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Striped Daisy
+Commercial,Indoor,Small,Temperate,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Variegated Xerophyte
+Commercial,Indoor,Small,Temperate,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Fragrant Zinnia
+Commercial,Indoor,Small,Temperate,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Variegated Rose
+Commercial,Indoor,Large,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Silver Zinnia
+Commercial,Indoor,Large,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Golden Eucalyptus
+Commercial,Indoor,Large,Tropical,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Variegated Ivy
+Commercial,Indoor,Large,Tropical,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Golden Zinnia
+Commercial,Indoor,Large,Tropical,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Giant Aloe Vera
+Commercial,Indoor,Large,Tropical,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Hybrid Orchid
+Commercial,Indoor,Large,Tropical,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Striped Tulip
+Commercial,Indoor,Large,Tropical,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Wild Ficus
+Commercial,Indoor,Large,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Hybrid Willow
+Commercial,Indoor,Large,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Hybrid Geranium
+Commercial,Indoor,Large,Tropical,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Dwarf Kale
+Commercial,Indoor,Large,Tropical,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Golden Umbrella Plant
+Commercial,Indoor,Large,Tropical,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Giant Yucca
+Commercial,Indoor,Large,Tropical,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Silver Orchid
+Commercial,Indoor,Large,Tropical,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Striped Zinnia
+Commercial,Indoor,Large,Tropical,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Hybrid Kale
+Commercial,Indoor,Large,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Dwarf Venus Flytrap
+Commercial,Indoor,Large,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Fragrant Orchid
+Commercial,Indoor,Large,Temperate,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Striped Lavender
+Commercial,Indoor,Large,Temperate,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Fragrant Basil
+Commercial,Indoor,Large,Temperate,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Striped Kale
+Commercial,Indoor,Large,Temperate,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Striped Rose
+Commercial,Indoor,Large,Temperate,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Fragrant Hibiscus
+Commercial,Indoor,Large,Temperate,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Dwarf Tulip
+Commercial,Indoor,Large,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Spotted Mint
+Commercial,Indoor,Large,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Giant Ficus
+Commercial,Indoor,Large,Temperate,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Wild Lavender
+Commercial,Indoor,Large,Temperate,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Giant Ivy
+Commercial,Indoor,Large,Temperate,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Variegated Ficus
+Commercial,Indoor,Large,Temperate,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Silver Venus Flytrap
+Commercial,Indoor,Large,Temperate,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Golden Yucca
+Commercial,Indoor,Large,Temperate,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Hybrid Yucca
+Commercial,Outdoor,Small,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Dwarf Basil
+Commercial,Outdoor,Small,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Fragrant Mint
+Commercial,Outdoor,Small,Tropical,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Wild Kale
+Commercial,Outdoor,Small,Tropical,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Fragrant Lavender
+Commercial,Outdoor,Small,Tropical,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Giant Willow
+Commercial,Outdoor,Small,Tropical,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Golden Aloe Vera
+Commercial,Outdoor,Small,Tropical,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Dwarf Eucalyptus
+Commercial,Outdoor,Small,Tropical,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Fragrant Ficus
+Commercial,Outdoor,Small,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Wild Zinnia
+Commercial,Outdoor,Small,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Spotted Lavender
+Commercial,Outdoor,Small,Tropical,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Wild Geranium
+Commercial,Outdoor,Small,Tropical,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Variegated Daisy
+Commercial,Outdoor,Small,Tropical,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Striped Geranium
+Commercial,Outdoor,Small,Tropical,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Golden Aloe Vera
+Commercial,Outdoor,Small,Tropical,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Striped Yucca
+Commercial,Outdoor,Small,Tropical,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Silver Jasmine
+Commercial,Outdoor,Small,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Hybrid Zinnia
+Commercial,Outdoor,Small,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Wild Ivy
+Commercial,Outdoor,Small,Temperate,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Silver Jasmine
+Commercial,Outdoor,Small,Temperate,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Dwarf Ivy
+Commercial,Outdoor,Small,Temperate,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Dwarf Venus Flytrap
+Commercial,Outdoor,Small,Temperate,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Variegated Ivy
+Commercial,Outdoor,Small,Temperate,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Spotted Ficus
+Commercial,Outdoor,Small,Temperate,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Giant Ficus
+Commercial,Outdoor,Small,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Golden Geranium
+Commercial,Outdoor,Small,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Hybrid Ficus
+Commercial,Outdoor,Small,Temperate,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Fragrant Umbrella Plant
+Commercial,Outdoor,Small,Temperate,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Hybrid Hibiscus
+Commercial,Outdoor,Small,Temperate,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Hybrid Basil
+Commercial,Outdoor,Small,Temperate,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Hybrid Aloe Vera
+Commercial,Outdoor,Small,Temperate,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Striped Willow
+Commercial,Outdoor,Small,Temperate,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Golden Xerophyte
+Commercial,Outdoor,Large,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Giant Yucca
+Commercial,Outdoor,Large,Tropical,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Striped Daisy
+Commercial,Outdoor,Large,Tropical,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Dwarf Jasmine
+Commercial,Outdoor,Large,Tropical,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Giant Hibiscus
+Commercial,Outdoor,Large,Tropical,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Fragrant Geranium
+Commercial,Outdoor,Large,Tropical,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Golden Yucca
+Commercial,Outdoor,Large,Tropical,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Giant Tulip
+Commercial,Outdoor,Large,Tropical,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Dwarf Quince
+Commercial,Outdoor,Large,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Giant Daisy
+Commercial,Outdoor,Large,Tropical,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Dwarf Daisy
+Commercial,Outdoor,Large,Tropical,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Spotted Umbrella Plant
+Commercial,Outdoor,Large,Tropical,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Giant Yucca
+Commercial,Outdoor,Large,Tropical,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Golden Daisy
+Commercial,Outdoor,Large,Tropical,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Striped Kale
+Commercial,Outdoor,Large,Tropical,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Hybrid Venus Flytrap
+Commercial,Outdoor,Large,Tropical,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Golden Quince
+Commercial,Outdoor,Large,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Spotted Xerophyte
+Commercial,Outdoor,Large,Temperate,Low budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Spotted Ivy
+Commercial,Outdoor,Large,Temperate,Low budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Dwarf Hibiscus
+Commercial,Outdoor,Large,Temperate,Low budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Giant Geranium
+Commercial,Outdoor,Large,Temperate,Low budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Wild Orchid
+Commercial,Outdoor,Large,Temperate,Low budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Wild Nasturtium
+Commercial,Outdoor,Large,Temperate,Low budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Wild Basil
+Commercial,Outdoor,Large,Temperate,Low budget,Decorative,High Watering,High maintenance,Natural Sunlight,Spotted Zinnia
+Commercial,Outdoor,Large,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Artificial Sunlight,Dwarf Lavender
+Commercial,Outdoor,Large,Temperate,Large budget,Decorative,Low Watering,Low maintenance,Natural Sunlight,Striped Lavender
+Commercial,Outdoor,Large,Temperate,Large budget,Decorative,Low Watering,High maintenance,Artificial Sunlight,Spotted Basil
+Commercial,Outdoor,Large,Temperate,Large budget,Decorative,Low Watering,High maintenance,Natural Sunlight,Striped Sunflower
+Commercial,Outdoor,Large,Temperate,Large budget,Decorative,High Watering,Low maintenance,Artificial Sunlight,Wild Tulip
+Commercial,Outdoor,Large,Temperate,Large budget,Decorative,High Watering,Low maintenance,Natural Sunlight,Golden Quince
+Commercial,Outdoor,Large,Temperate,Large budget,Decorative,High Watering,High maintenance,Artificial Sunlight,Fragrant Mint
+Commercial,Outdoor,Large,Temperate,Large budget,Decorative,High Watering,High maintenance,Natural Sunlight,Variegated Geranium
+Residential,Indoor,Small,Tropical,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Cranberry Hibiscus
+Residential,Indoor,Small,Tropical,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Basil
+Residential,Indoor,Small,Tropical,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Mint
+Residential,Indoor,Small,Tropical,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Rosemary
+Residential,Indoor,Small,Tropical,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Thyme
+Residential,Indoor,Small,Tropical,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Oregano
+Residential,Indoor,Small,Tropical,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Parsley
+Residential,Indoor,Small,Tropical,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Cilantro
+Residential,Indoor,Small,Tropical,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Chives
+Residential,Indoor,Small,Tropical,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Dill
+Residential,Indoor,Small,Tropical,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Sage
+Residential,Indoor,Small,Tropical,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Tarragon
+Residential,Indoor,Small,Tropical,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Bay Leaves
+Residential,Indoor,Small,Tropical,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Fennel
+Residential,Indoor,Small,Tropical,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Lemongrass
+Residential,Indoor,Small,Tropical,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Lavender
+Residential,Indoor,Small,Temperate,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Chamomile
+Residential,Indoor,Small,Temperate,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Marjoram
+Residential,Indoor,Small,Temperate,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Elderflower
+Residential,Indoor,Small,Temperate,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Spinach
+Residential,Indoor,Small,Temperate,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Kale
+Residential,Indoor,Small,Temperate,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Lettuce
+Residential,Indoor,Small,Temperate,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Arugula
+Residential,Indoor,Small,Temperate,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Swiss Chard
+Residential,Indoor,Small,Temperate,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Mustard Greens
+Residential,Indoor,Small,Temperate,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Collard Greens
+Residential,Indoor,Small,Temperate,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Dandelion Greens
+Residential,Indoor,Small,Temperate,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Endive
+Residential,Indoor,Small,Temperate,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Radicchio
+Residential,Indoor,Small,Temperate,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Watercress
+Residential,Indoor,Small,Temperate,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Sorrel
+Residential,Indoor,Small,Temperate,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Nettles
+Residential,Indoor,Large,Tropical,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Chard
+Residential,Indoor,Large,Tropical,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Tomatoes
+Residential,Indoor,Large,Tropical,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Cucumbers
+Residential,Indoor,Large,Tropical,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Avocados
+Residential,Indoor,Large,Tropical,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Apples
+Residential,Indoor,Large,Tropical,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Pears
+Residential,Indoor,Large,Tropical,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Strawberries
+Residential,Indoor,Large,Tropical,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Blueberries
+Residential,Indoor,Large,Tropical,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Raspberries
+Residential,Indoor,Large,Tropical,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Blackberries
+Residential,Indoor,Large,Tropical,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Peaches
+Residential,Indoor,Large,Tropical,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Plums
+Residential,Indoor,Large,Tropical,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Cherries
+Residential,Indoor,Large,Tropical,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Oranges
+Residential,Indoor,Large,Tropical,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Lemons
+Residential,Indoor,Large,Tropical,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Limes
+Residential,Indoor,Large,Temperate,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Bananas
+Residential,Indoor,Large,Temperate,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Grapes
+Residential,Indoor,Large,Temperate,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Pineapples
+Residential,Indoor,Large,Temperate,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Papayas
+Residential,Indoor,Large,Temperate,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Mangoes
+Residential,Indoor,Large,Temperate,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Kiwi
+Residential,Indoor,Large,Temperate,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Figs
+Residential,Indoor,Large,Temperate,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Pomegranates
+Residential,Indoor,Large,Temperate,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Cantaloupe
+Residential,Indoor,Large,Temperate,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Watermelon
+Residential,Indoor,Large,Temperate,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Passion Fruit
+Residential,Indoor,Large,Temperate,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Dragon Fruit
+Residential,Indoor,Large,Temperate,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Guava
+Residential,Indoor,Large,Temperate,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Tamarind
+Residential,Indoor,Large,Temperate,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Mulberries
+Residential,Indoor,Large,Temperate,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Carrots
+Residential,Outdoor,Small,Tropical,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Potatoes
+Residential,Outdoor,Small,Tropical,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Sweet Potatoes
+Residential,Outdoor,Small,Tropical,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Beets
+Residential,Outdoor,Small,Tropical,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Turnips
+Residential,Outdoor,Small,Tropical,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Parsnips
+Residential,Outdoor,Small,Tropical,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Radishes
+Residential,Outdoor,Small,Tropical,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Rutabaga
+Residential,Outdoor,Small,Tropical,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Ginger
+Residential,Outdoor,Small,Tropical,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Garlic
+Residential,Outdoor,Small,Tropical,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Shallots
+Residential,Outdoor,Small,Tropical,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Onions
+Residential,Outdoor,Small,Tropical,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Leeks
+Residential,Outdoor,Small,Tropical,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Yams
+Residential,Outdoor,Small,Tropical,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Chickpeas
+Residential,Outdoor,Small,Tropical,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Lentils
+Residential,Outdoor,Small,Tropical,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Black Beans
+Residential,Outdoor,Small,Temperate,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Kidney Beans
+Residential,Outdoor,Small,Temperate,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Cabbage
+Residential,Outdoor,Small,Temperate,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Broccoli
+Residential,Outdoor,Small,Temperate,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Cauliflower
+Residential,Outdoor,Small,Temperate,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Brussels Sprouts
+Residential,Outdoor,Small,Temperate,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Bok Choy
+Residential,Outdoor,Small,Temperate,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Mustard Greens
+Residential,Outdoor,Small,Temperate,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Chinese Cabbage
+Residential,Outdoor,Small,Temperate,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Endive
+Residential,Outdoor,Small,Temperate,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Fennel
+Residential,Outdoor,Small,Temperate,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Kohlrabi
+Residential,Outdoor,Small,Temperate,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Beet Greens
+Residential,Outdoor,Small,Temperate,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Collard Greens
+Residential,Outdoor,Small,Temperate,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Turnip Greens
+Residential,Outdoor,Small,Temperate,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Radicchio
+Residential,Outdoor,Small,Temperate,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Cress
+Residential,Outdoor,Large,Tropical,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Alfalfa Sprouts
+Residential,Outdoor,Large,Tropical,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Mache
+Residential,Outdoor,Large,Tropical,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Amaranth
+Residential,Outdoor,Large,Tropical,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Chard
+Residential,Outdoor,Large,Tropical,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Dandelion
+Residential,Outdoor,Large,Tropical,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Mangoes
+Residential,Outdoor,Large,Tropical,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Apples
+Residential,Outdoor,Large,Tropical,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Papaya
+Residential,Outdoor,Large,Tropical,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Tomatillos
+Residential,Outdoor,Large,Tropical,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Bell Peppers
+Residential,Outdoor,Large,Tropical,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Chili Peppers
+Residential,Outdoor,Large,Tropical,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Habanero Peppers
+Residential,Outdoor,Large,Tropical,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Jalapeños
+Residential,Outdoor,Large,Tropical,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Caribbean Hot Peppers
+Residential,Outdoor,Large,Tropical,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Okra
+Residential,Outdoor,Large,Tropical,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Squash Blossoms
+Residential,Outdoor,Large,Temperate,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Bitter Melon
+Residential,Outdoor,Large,Temperate,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Kale
+Residential,Outdoor,Large,Temperate,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Rhubarb
+Residential,Outdoor,Large,Temperate,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Sweet Peas
+Residential,Outdoor,Large,Temperate,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Snow Peas
+Residential,Outdoor,Large,Temperate,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Chard
+Residential,Outdoor,Large,Temperate,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Mint
+Residential,Outdoor,Large,Temperate,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Raspberries
+Residential,Outdoor,Large,Temperate,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Blackberries
+Residential,Outdoor,Large,Temperate,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Cucumbers
+Residential,Outdoor,Large,Temperate,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Pumpkins
+Residential,Outdoor,Large,Temperate,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Spaghetti Squash
+Residential,Outdoor,Large,Temperate,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Watermelon
+Residential,Outdoor,Large,Temperate,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Chili Peppers
+Residential,Outdoor,Large,Temperate,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Sweet Corn
+Residential,Outdoor,Large,Temperate,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Oats
+Commercial,Indoor,Small,Tropical,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Rice
+Commercial,Indoor,Small,Tropical,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Barley
+Commercial,Indoor,Small,Tropical,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Wheatgrass
+Commercial,Indoor,Small,Tropical,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Sunflower Greens
+Commercial,Indoor,Small,Tropical,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Cucumber Melon
+Commercial,Indoor,Small,Tropical,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Pineapple Sage
+Commercial,Indoor,Small,Tropical,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Cranberries
+Commercial,Indoor,Small,Tropical,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Goji Berries
+Commercial,Indoor,Small,Tropical,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Pine Nuts
+Commercial,Indoor,Small,Tropical,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Tree Collards
+Commercial,Indoor,Small,Tropical,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Wild Leeks
+Commercial,Indoor,Small,Tropical,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Purslane
+Commercial,Indoor,Small,Tropical,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Chickweed
+Commercial,Indoor,Small,Tropical,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Taro
+Commercial,Indoor,Small,Tropical,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Arrowroot
+Commercial,Indoor,Small,Tropical,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Bamboo Shoots
+Commercial,Indoor,Small,Temperate,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Ginger
+Commercial,Indoor,Small,Temperate,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Turmeric
+Commercial,Indoor,Small,Temperate,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Horseradish
+Commercial,Indoor,Small,Temperate,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Moringa
+Commercial,Indoor,Small,Temperate,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Sea Buckthorn
+Commercial,Indoor,Small,Temperate,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Jalapeños
+Commercial,Indoor,Small,Temperate,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Ginger Root
+Commercial,Indoor,Small,Temperate,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Sunchokes
+Commercial,Indoor,Small,Temperate,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Sweet Potatoes
+Commercial,Indoor,Small,Temperate,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Mangoes
+Commercial,Indoor,Small,Temperate,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Taro Root
+Commercial,Indoor,Small,Temperate,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Yam Bean
+Commercial,Indoor,Small,Temperate,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Jackfruit
+Commercial,Indoor,Small,Temperate,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Durian
+Commercial,Indoor,Small,Temperate,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Lychee
+Commercial,Indoor,Small,Temperate,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Rambutan
+Commercial,Indoor,Large,Tropical,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Longan
+Commercial,Indoor,Large,Tropical,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Starfruit
+Commercial,Indoor,Large,Tropical,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Mulberry
+Commercial,Indoor,Large,Tropical,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Cacao
+Commercial,Indoor,Large,Tropical,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Almonds (in shell)
+Commercial,Indoor,Large,Tropical,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Pistachios (in shell)
+Commercial,Indoor,Large,Tropical,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Peaches
+Commercial,Indoor,Large,Tropical,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Pears (Asian variety)
+Commercial,Indoor,Large,Tropical,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Quince
+Commercial,Indoor,Large,Tropical,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Nance fruit
+Commercial,Indoor,Large,Tropical,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Gooseberries
+Commercial,Indoor,Large,Tropical,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Elderberries
+Commercial,Indoor,Large,Tropical,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Cantaloupe
+Commercial,Indoor,Large,Tropical,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Honeydew Melon
+Commercial,Indoor,Large,Tropical,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Blackcurrants
+Commercial,Indoor,Large,Tropical,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Redcurrants
+Commercial,Indoor,Large,Temperate,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Goosefoot
+Commercial,Indoor,Large,Temperate,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Salsify
+Commercial,Indoor,Large,Temperate,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Taro Leaves
+Commercial,Indoor,Large,Temperate,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Elephant Garlic
+Commercial,Indoor,Large,Temperate,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Shallots (wild)
+Commercial,Indoor,Large,Temperate,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Maize (corn)
+Commercial,Indoor,Large,Temperate,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Sorghum
+Commercial,Indoor,Large,Temperate,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Millets
+Commercial,Indoor,Large,Temperate,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Fiddlehead Ferns
+Commercial,Indoor,Large,Temperate,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Kudzu
+Commercial,Indoor,Large,Temperate,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Purslane
+Commercial,Indoor,Large,Temperate,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Jicama
+Commercial,Indoor,Large,Temperate,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Water Chestnuts
+Commercial,Indoor,Large,Temperate,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Cress
+Commercial,Indoor,Large,Temperate,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Basil (Thai variety)
+Commercial,Indoor,Large,Temperate,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Lemon Balm
+Commercial,Outdoor,Small,Tropical,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Fennel Pollen
+Commercial,Outdoor,Small,Tropical,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Carob
+Commercial,Outdoor,Small,Tropical,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Jerusalem Artichokes (Sunchokes)
+Commercial,Outdoor,Small,Tropical,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Ice Plant
+Commercial,Outdoor,Small,Tropical,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Zedoary
+Commercial,Outdoor,Small,Tropical,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Mache (Lamb's Lettuce)
+Commercial,Outdoor,Small,Tropical,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Sea Lettuce
+Commercial,Outdoor,Small,Tropical,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Sea Cucumber
+Commercial,Outdoor,Small,Tropical,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Chayote
+Commercial,Outdoor,Small,Tropical,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Cherries (wild)
+Commercial,Outdoor,Small,Tropical,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Apple Berries
+Commercial,Outdoor,Small,Tropical,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Mulberry Leaf
+Commercial,Outdoor,Small,Tropical,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Guava Leaves
+Commercial,Outdoor,Small,Tropical,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Cabbage Palm (heart of palm)
+Commercial,Outdoor,Small,Tropical,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Wild Garlic
+Commercial,Outdoor,Small,Tropical,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Sagebrush
+Commercial,Outdoor,Small,Temperate,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Aronia Berry
+Commercial,Outdoor,Small,Temperate,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Grapes (wild)
+Commercial,Outdoor,Small,Temperate,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Rowan Berries
+Commercial,Outdoor,Small,Temperate,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Sea Buckthorn
+Commercial,Outdoor,Small,Temperate,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Pawpaw
+Commercial,Outdoor,Small,Temperate,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Papaya Leaves
+Commercial,Outdoor,Small,Temperate,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Sweet Potato Leaves
+Commercial,Outdoor,Small,Temperate,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Artichoke Leaves
+Commercial,Outdoor,Small,Temperate,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Elderflower
+Commercial,Outdoor,Small,Temperate,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Juniper Berries
+Commercial,Outdoor,Small,Temperate,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Bay Leaves
+Commercial,Outdoor,Small,Temperate,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Sweet Corn
+Commercial,Outdoor,Small,Temperate,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Lemon Verbena
+Commercial,Outdoor,Small,Temperate,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Lovage
+Commercial,Outdoor,Small,Temperate,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Nettle Root
+Commercial,Outdoor,Small,Temperate,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Wild Lettuce
+Commercial,Outdoor,Large,Tropical,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Dandelion Root
+Commercial,Outdoor,Large,Tropical,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Cucumber Melon
+Commercial,Outdoor,Large,Tropical,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Tamarillo
+Commercial,Outdoor,Large,Tropical,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Sweet Lime
+Commercial,Outdoor,Large,Tropical,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Sumac Berries
+Commercial,Outdoor,Large,Tropical,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Mountain Cranberries
+Commercial,Outdoor,Large,Tropical,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Wild Cherries
+Commercial,Outdoor,Large,Tropical,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Pineapple Sage
+Commercial,Outdoor,Large,Tropical,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Ground Cherry
+Commercial,Outdoor,Large,Tropical,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Wisteria (flowers are edible)
+Commercial,Outdoor,Large,Tropical,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Red Clover
+Commercial,Outdoor,Large,Tropical,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Violet (flowers are edible)
+Commercial,Outdoor,Large,Tropical,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Mullein (flowers and leaves)
+Commercial,Outdoor,Large,Tropical,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Burdock Root
+Commercial,Outdoor,Large,Tropical,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Lamb's Quarters
+Commercial,Outdoor,Large,Tropical,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Wild Strawberry
+Commercial,Outdoor,Large,Temperate,Low budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Saffron
+Commercial,Outdoor,Large,Temperate,Low budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Spilanthes (toothache plant)
+Commercial,Outdoor,Large,Temperate,Low budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Moringa
+Commercial,Outdoor,Large,Temperate,Low budget,Edible,Low Watering,High maintenance,Natural Sunlight,Sunchoke (Jerusalem Artichoke)
+Commercial,Outdoor,Large,Temperate,Low budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Dulse (edible seaweed)
+Commercial,Outdoor,Large,Temperate,Low budget,Edible,High Watering,Low maintenance,Natural Sunlight,Nori (edible seaweed)
+Commercial,Outdoor,Large,Temperate,Low budget,Edible,High Watering,High maintenance,Artificial Sunlight,Kelp (edible seaweed)
+Commercial,Outdoor,Large,Temperate,Low budget,Edible,High Watering,High maintenance,Natural Sunlight,Wakame (edible seaweed)
+Commercial,Outdoor,Large,Temperate,Large budget,Edible,Low Watering,Low maintenance,Artificial Sunlight,Chanterelle Mushrooms
+Commercial,Outdoor,Large,Temperate,Large budget,Edible,Low Watering,Low maintenance,Natural Sunlight,Morel Mushrooms
+Commercial,Outdoor,Large,Temperate,Large budget,Edible,Low Watering,High maintenance,Artificial Sunlight,Shiitake Mushrooms
+Commercial,Outdoor,Large,Temperate,Large budget,Edible,Low Watering,High maintenance,Natural Sunlight,Oyster Mushrooms
+Commercial,Outdoor,Large,Temperate,Large budget,Edible,High Watering,Low maintenance,Artificial Sunlight,Button Mushrooms
+Commercial,Outdoor,Large,Temperate,Large budget,Edible,High Watering,Low maintenance,Natural Sunlight,Enoki Mushrooms
+Commercial,Outdoor,Large,Temperate,Large budget,Edible,High Watering,High maintenance,Artificial Sunlight,Cremini Mushrooms
+Commercial,Outdoor,Large,Temperate,Large budget,Edible,High Watering,High maintenance,Natural Sunlight,Maitake Mushrooms

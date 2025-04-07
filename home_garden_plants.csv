@@ -1,0 +1,257 @@
+Sunlight,Watering,Maintenance,Plant Size,Growth Type,Aesthetic Feature,Weather,Locations,Recommended Plant
+High,High,High,Large,Small,Edible,Tropical,Indoor,Spinach
+High,High,High,Large,Small,Edible,Tropical,Outdoor,Tomato
+High,High,High,Large,Small,Edible,Temperate,Indoor,Lettuce
+High,High,High,Large,Small,Edible,Temperate,Outdoor,Strawberry
+High,High,High,Large,Small,Decorative,Tropical,Indoor,Orchid
+High,High,High,Large,Small,Decorative,Tropical,Outdoor,Hibiscus
+High,High,High,Large,Small,Decorative,Temperate,Indoor,Tulip
+High,High,High,Large,Small,Decorative,Temperate,Outdoor,Sunflower
+High,High,High,Large,Big,Edible,Tropical,Indoor,Banana
+High,High,High,Large,Big,Edible,Tropical,Outdoor,Pineapple
+High,High,High,Large,Big,Edible,Temperate,Indoor,Blueberry
+High,High,High,Large,Big,Edible,Temperate,Outdoor,Apple
+High,High,High,Large,Big,Decorative,Tropical,Indoor,Bromeliad
+High,High,High,Large,Big,Decorative,Tropical,Outdoor,Plumeria
+High,High,High,Large,Big,Decorative,Temperate,Indoor,Amaryllis
+High,High,High,Large,Big,Decorative,Temperate,Outdoor,Dahlia
+High,High,High,Small,Small,Edible,Tropical,Indoor,Papaya
+High,High,High,Small,Small,Edible,Tropical,Outdoor,Mango
+High,High,High,Small,Small,Edible,Temperate,Indoor,Kale
+High,High,High,Small,Small,Edible,Temperate,Outdoor,Carrot
+High,High,High,Small,Small,Decorative,Tropical,Indoor,Anthurium
+High,High,High,Small,Small,Decorative,Tropical,Outdoor,Gardenia
+High,High,High,Small,Small,Decorative,Temperate,Indoor,Begonia
+High,High,High,Small,Small,Decorative,Temperate,Outdoor,Pansy
+High,High,High,Small,Big,Edible,Tropical,Indoor,Sweet Potato
+High,High,High,Small,Big,Edible,Tropical,Outdoor,Cucumber
+High,High,High,Small,Big,Edible,Temperate,Indoor,Spinach
+High,High,High,Small,Big,Edible,Temperate,Outdoor,Lettuce
+High,High,High,Small,Big,Decorative,Tropical,Indoor,Peace Lily
+High,High,High,Small,Big,Decorative,Tropical,Outdoor,Jasmine
+High,High,High,Small,Big,Decorative,Temperate,Indoor,Geranium
+High,High,High,Small,Big,Decorative,Temperate,Outdoor,Lavender
+High,High,Low,Large,Small,Edible,Tropical,Indoor,Avocado
+High,High,Low,Large,Small,Edible,Tropical,Outdoor,Coconut
+High,High,Low,Large,Small,Edible,Temperate,Indoor,Parsley
+High,High,Low,Large,Small,Edible,Temperate,Outdoor,Broccoli
+High,High,Low,Large,Small,Decorative,Tropical,Indoor,Ficus
+High,High,Low,Large,Small,Decorative,Tropical,Outdoor,Bougainvillea
+High,High,Low,Large,Small,Decorative,Temperate,Indoor,Ivy
+High,High,Low,Large,Small,Decorative,Temperate,Outdoor,Rose
+High,High,Low,Large,Big,Edible,Tropical,Indoor,Chilli Pepper
+High,High,Low,Large,Big,Edible,Tropical,Outdoor,Okra
+High,High,Low,Large,Big,Edible,Temperate,Indoor,Zucchini
+High,High,Low,Large,Big,Edible,Temperate,Outdoor,Radish
+High,High,Low,Large,Big,Decorative,Tropical,Indoor,Calla Lily
+High,High,Low,Large,Big,Decorative,Tropical,Outdoor,Gardenia
+High,High,Low,Large,Big,Decorative,Temperate,Indoor,Amaryllis
+High,High,Low,Large,Big,Decorative,Temperate,Outdoor,Crocus
+High,High,Low,Small,Small,Edible,Tropical,Indoor,Dragon Fruit
+High,High,Low,Small,Small,Edible,Tropical,Outdoor,Papaya
+High,High,Low,Small,Small,Edible,Temperate,Indoor,Chard
+High,High,Low,Small,Small,Edible,Temperate,Outdoor,Asparagus
+High,High,Low,Small,Small,Decorative,Tropical,Indoor,Flamingo Plant
+High,High,Low,Small,Small,Decorative,Tropical,Outdoor,Palm
+High,High,Low,Small,Small,Decorative,Temperate,Indoor,Cactus
+High,High,Low,Small,Small,Decorative,Temperate,Outdoor,Marigold
+High,High,Low,Small,Big,Edible,Tropical,Indoor,Sweet Pepper
+High,High,Low,Small,Big,Edible,Tropical,Outdoor,Mango
+High,High,Low,Small,Big,Edible,Temperate,Indoor,Chives
+High,High,Low,Small,Big,Edible,Temperate,Outdoor,Peas
+High,High,Low,Small,Big,Decorative,Tropical,Indoor,Anthurium
+High,High,Low,Small,Big,Decorative,Tropical,Outdoor,Bougainvillea
+High,High,Low,Small,Big,Decorative,Temperate,Indoor,Gardenia
+High,High,Low,Small,Big,Decorative,Temperate,Outdoor,Dahlia
+High,Low,High,Large,Small,Edible,Tropical,Indoor,Papaya
+High,Low,High,Large,Small,Edible,Tropical,Outdoor,Pineapple
+High,Low,High,Large,Small,Edible,Temperate,Indoor,Kale
+High,Low,High,Large,Small,Edible,Temperate,Outdoor,Carrot
+High,Low,High,Large,Small,Decorative,Tropical,Indoor,Areca Palm
+High,Low,High,Large,Small,Decorative,Tropical,Outdoor,Hibiscus
+High,Low,High,Large,Small,Decorative,Temperate,Indoor,Lavender
+High,Low,High,Large,Small,Decorative,Temperate,Outdoor,Geranium
+High,Low,High,Large,Big,Edible,Tropical,Indoor,Banana
+High,Low,High,Large,Big,Edible,Tropical,Outdoor,Mango
+High,Low,High,Large,Big,Edible,Temperate,Indoor,Spinach
+High,Low,High,Large,Big,Edible,Temperate,Outdoor,Carrot
+High,Low,High,Large,Big,Decorative,Tropical,Indoor,Anthurium
+High,Low,High,Large,Big,Decorative,Tropical,Outdoor,Bird of Paradise
+High,Low,High,Large,Big,Decorative,Temperate,Indoor,Fuchsia
+High,Low,High,Large,Big,Decorative,Temperate,Outdoor,Dahlia
+High,Low,High,Small,Small,Edible,Tropical,Indoor,Pineapple
+High,Low,High,Small,Small,Edible,Tropical,Outdoor,Coconut
+High,Low,High,Small,Small,Edible,Temperate,Indoor,Lettuce
+High,Low,High,Small,Small,Edible,Temperate,Outdoor,Tomato
+High,Low,High,Small,Small,Decorative,Tropical,Indoor,Peace Lily
+High,Low,High,Small,Small,Decorative,Tropical,Outdoor,Bougainvillea
+High,Low,High,Small,Small,Decorative,Temperate,Indoor,Pothos
+High,Low,High,Small,Small,Decorative,Temperate,Outdoor,Rose
+High,Low,High,Small,Big,Edible,Tropical,Indoor,Papaya
+High,Low,High,Small,Big,Edible,Tropical,Outdoor,Guava
+High,Low,High,Small,Big,Edible,Temperate,Indoor,Kale
+High,Low,High,Small,Big,Edible,Temperate,Outdoor,Broccoli
+High,Low,High,Small,Big,Decorative,Tropical,Indoor,Orchid
+High,Low,High,Small,Big,Decorative,Tropical,Outdoor,Hibiscus
+High,Low,High,Small,Big,Decorative,Temperate,Indoor,Ficus
+High,Low,High,Small,Big,Decorative,Temperate,Outdoor,Rose
+High,Low,Low,Large,Small,Edible,Tropical,Indoor,Banana
+High,Low,Low,Large,Small,Edible,Tropical,Outdoor,Mango
+High,Low,Low,Large,Small,Edible,Temperate,Indoor,Lettuce
+High,Low,Low,Large,Small,Edible,Temperate,Outdoor,Tomato
+High,Low,Low,Large,Small,Decorative,Tropical,Indoor,Peace Lily
+High,Low,Low,Large,Small,Decorative,Tropical,Outdoor,Bird of Paradise
+High,Low,Low,Large,Small,Decorative,Temperate,Indoor,Pothos
+High,Low,Low,Large,Small,Decorative,Temperate,Outdoor,Dahlia
+High,Low,Low,Large,Big,Edible,Tropical,Indoor,Pineapple
+High,Low,Low,Large,Big,Edible,Tropical,Outdoor,Papaya
+High,Low,Low,Large,Big,Edible,Temperate,Indoor,Spinach
+High,Low,Low,Large,Big,Edible,Temperate,Outdoor,Carrot
+High,Low,Low,Large,Big,Decorative,Tropical,Indoor,Areca Palm
+High,Low,Low,Large,Big,Decorative,Tropical,Outdoor,Bougainvillea
+High,Low,Low,Large,Big,Decorative,Temperate,Indoor,Lavender
+High,Low,Low,Large,Big,Decorative,Temperate,Outdoor,Geranium
+High,Low,Low,Small,Small,Edible,Tropical,Indoor,Avocado
+High,Low,Low,Small,Small,Edible,Tropical,Outdoor,Coconut
+High,Low,Low,Small,Small,Edible,Temperate,Indoor,Kale
+High,Low,Low,Small,Small,Edible,Temperate,Outdoor,Broccoli
+High,Low,Low,Small,Small,Decorative,Tropical,Indoor,Areca Palm
+High,Low,Low,Small,Small,Decorative,Tropical,Outdoor,Bougainvillea
+High,Low,Low,Small,Small,Decorative,Temperate,Indoor,Ficus
+High,Low,Low,Small,Small,Decorative,Temperate,Outdoor,Rose
+High,Low,Low,Small,Big,Edible,Tropical,Indoor,Banana
+High,Low,Low,Small,Big,Edible,Tropical,Outdoor,Mango
+High,Low,Low,Small,Big,Edible,Temperate,Indoor,Lettuce
+High,Low,Low,Small,Big,Edible,Temperate,Outdoor,Tomato
+High,Low,Low,Small,Big,Decorative,Tropical,Indoor,Peace Lily
+High,Low,Low,Small,Big,Decorative,Tropical,Outdoor,Bird of Paradise
+High,Low,Low,Small,Big,Decorative,Temperate,Indoor,Pothos
+High,Low,Low,Small,Big,Decorative,Temperate,Outdoor,Dahlia
+Low,High,High,Large,Small,Edible,Tropical,Indoor,Pineapple
+Low,High,High,Large,Small,Edible,Tropical,Outdoor,Papaya
+Low,High,High,Large,Small,Edible,Temperate,Indoor,Spinach
+Low,High,High,Large,Small,Edible,Temperate,Outdoor,Carrot
+Low,High,High,Large,Small,Decorative,Tropical,Indoor,Areca Palm
+Low,High,High,Large,Small,Decorative,Tropical,Outdoor,Bougainvillea
+Low,High,High,Large,Small,Decorative,Temperate,Indoor,Lavender
+Low,High,High,Large,Small,Decorative,Temperate,Outdoor,Geranium
+Low,High,High,Large,Big,Edible,Tropical,Indoor,Avocado
+Low,High,High,Large,Big,Edible,Tropical,Outdoor,Coconut
+Low,High,High,Large,Big,Edible,Temperate,Indoor,Kale
+Low,High,High,Large,Big,Edible,Temperate,Outdoor,Broccoli
+Low,High,High,Large,Big,Decorative,Tropical,Indoor,Areca Palm
+Low,High,High,Large,Big,Decorative,Tropical,Outdoor,Bougainvillea
+Low,High,High,Large,Big,Decorative,Temperate,Indoor,Ficus
+Low,High,High,Large,Big,Decorative,Temperate,Outdoor,Rose
+Low,High,High,Small,Small,Edible,Tropical,Indoor,Banana
+Low,High,High,Small,Small,Edible,Tropical,Outdoor,Mango
+Low,High,High,Small,Small,Edible,Temperate,Indoor,Lettuce
+Low,High,High,Small,Small,Edible,Temperate,Outdoor,Tomato
+Low,High,High,Small,Small,Decorative,Tropical,Indoor,Peace Lily
+Low,High,High,Small,Small,Decorative,Tropical,Outdoor,Bird of Paradise
+Low,High,High,Small,Small,Decorative,Temperate,Indoor,Pothos
+Low,High,High,Small,Small,Decorative,Temperate,Outdoor,Dahlia
+Low,High,High,Small,Big,Edible,Tropical,Indoor,Pineapple
+Low,High,High,Small,Big,Edible,Tropical,Outdoor,Papaya
+Low,High,High,Small,Big,Edible,Temperate,Indoor,Spinach
+Low,High,High,Small,Big,Edible,Temperate,Outdoor,Carrot
+Low,High,High,Small,Big,Decorative,Tropical,Indoor,Bamboo
+Low,High,High,Small,Big,Decorative,Tropical,Outdoor,Hibiscus
+Low,High,High,Small,Big,Decorative,Temperate,Indoor,Lavender
+Low,High,High,Small,Big,Decorative,Temperate,Outdoor,Geranium
+Low,High,Low,Large,Small,Edible,Tropical,Indoor,Avocado
+Low,High,Low,Large,Small,Edible,Tropical,Outdoor,Coconut
+Low,High,Low,Large,Small,Edible,Temperate,Indoor,Kale
+Low,High,Low,Large,Small,Edible,Temperate,Outdoor,Broccoli
+Low,High,Low,Large,Small,Decorative,Tropical,Indoor,Orchid
+Low,High,Low,Large,Small,Decorative,Tropical,Outdoor,Plumeria
+Low,High,Low,Large,Small,Decorative,Temperate,Indoor,English Ivy
+Low,High,Low,Large,Small,Decorative,Temperate,Outdoor,Peony
+Low,High,Low,Large,Big,Edible,Tropical,Indoor,Sweet Potato Vine
+Low,High,Low,Large,Big,Edible,Tropical,Outdoor,Chili Pepper
+Low,High,Low,Large,Big,Edible,Temperate,Indoor,"Herbs (e.g., Basil)"
+Low,High,Low,Large,Big,Edible,Temperate,Outdoor,Garlic
+Low,High,Low,Large,Big,Decorative,Tropical,Indoor,Anthurium
+Low,High,Low,Large,Big,Decorative,Tropical,Outdoor,Birds of Paradise
+Low,High,Low,Large,Big,Decorative,Temperate,Indoor,Snake Plant
+Low,High,Low,Large,Big,Decorative,Temperate,Outdoor,Hydrangea
+Low,High,Low,Small,Small,Edible,Tropical,Indoor,Mango
+Low,High,Low,Small,Small,Edible,Tropical,Outdoor,Passionfruit
+Low,High,Low,Small,Small,Edible,Temperate,Indoor,Radish
+Low,High,Low,Small,Small,Edible,Temperate,Outdoor,Lettuce
+Low,High,Low,Small,Small,Decorative,Tropical,Indoor,Fiddle Leaf Fig
+Low,High,Low,Small,Small,Decorative,Tropical,Outdoor,Hibiscus
+Low,High,Low,Small,Small,Decorative,Temperate,Indoor,Spider Plant
+Low,High,Low,Small,Small,Decorative,Temperate,Outdoor,Lavender
+Low,High,Low,Small,Big,Edible,Tropical,Indoor,Pineapple
+Low,High,Low,Small,Big,Edible,Tropical,Outdoor,Guava
+Low,High,Low,Small,Big,Edible,Temperate,Indoor,Spinach
+Low,High,Low,Small,Big,Edible,Temperate,Outdoor,Tomato
+Low,High,Low,Small,Big,Decorative,Tropical,Indoor,Rubber Plant
+Low,High,Low,Small,Big,Decorative,Tropical,Outdoor,Bird of Paradise
+Low,High,Low,Small,Big,Decorative,Temperate,Indoor,Fiddle Leaf Fig
+Low,High,Low,Small,Big,Decorative,Temperate,Outdoor,Japanese Maple
+Low,Low,High,Large,Small,Edible,Tropical,Indoor,Lemon Tree
+Low,Low,High,Large,Small,Edible,Tropical,Outdoor,Papaya
+Low,Low,High,Large,Small,Edible,Temperate,Indoor,Kale
+Low,Low,High,Large,Small,Edible,Temperate,Outdoor,Carrots
+Low,Low,High,Large,Small,Decorative,Tropical,Indoor,Anthurium
+Low,Low,High,Large,Small,Decorative,Tropical,Outdoor,Plumeria
+Low,Low,High,Large,Small,Decorative,Temperate,Indoor,Peace Lily
+Low,Low,High,Large,Small,Decorative,Temperate,Outdoor,Daffodils
+Low,Low,High,Large,Big,Edible,Tropical,Indoor,Avocado
+Low,Low,High,Large,Big,Edible,Tropical,Outdoor,Pineapple
+Low,Low,High,Large,Big,Edible,Temperate,Indoor,Thyme
+Low,Low,High,Large,Big,Edible,Temperate,Outdoor,Radish
+Low,Low,High,Large,Big,Decorative,Tropical,Indoor,Aloe Vera
+Low,Low,High,Large,Big,Decorative,Tropical,Outdoor,Bougainvillea
+Low,Low,High,Large,Big,Decorative,Temperate,Indoor,"Succulents (e.g., Echeveria)"
+Low,Low,High,Large,Big,Decorative,Temperate,Outdoor,Lavender
+Low,Low,High,Small,Small,Edible,Tropical,Indoor,Sweet Potato Vine
+Low,Low,High,Small,Small,Edible,Tropical,Outdoor,Mango
+Low,Low,High,Small,Small,Edible,Temperate,Indoor,Lettuce
+Low,Low,High,Small,Small,Edible,Temperate,Outdoor,Spinach
+Low,Low,High,Small,Small,Decorative,Tropical,Indoor,Spider Plant
+Low,Low,High,Small,Small,Decorative,Tropical,Outdoor,Hibiscus
+Low,Low,High,Small,Small,Decorative,Temperate,Indoor,Pothos
+Low,Low,High,Small,Small,Decorative,Temperate,Outdoor,Hydrangea
+Low,Low,High,Small,Big,Edible,Tropical,Indoor,Ginger
+Low,Low,High,Small,Big,Edible,Tropical,Outdoor,Banana
+Low,Low,High,Small,Big,Edible,Temperate,Indoor,Chives
+Low,Low,High,Small,Big,Edible,Temperate,Outdoor,Broccoli
+Low,Low,High,Small,Big,Decorative,Tropical,Indoor,ZZ Plant
+Low,Low,High,Small,Big,Decorative,Tropical,Outdoor,Gardenia
+Low,Low,High,Small,Big,Decorative,Temperate,Indoor,Christmas Cactus
+Low,Low,High,Small,Big,Decorative,Temperate,Outdoor,Forsythia
+Low,Low,Low,Large,Small,Edible,Tropical,Indoor,Chili Pepper
+Low,Low,Low,Large,Small,Edible,Tropical,Outdoor,Guava
+Low,Low,Low,Large,Small,Edible,Temperate,Indoor,Sage
+Low,Low,Low,Large,Small,Edible,Temperate,Outdoor,Peas
+Low,Low,Low,Large,Small,Decorative,Tropical,Indoor,Bromeliad
+Low,Low,Low,Large,Small,Decorative,Tropical,Outdoor,Fuchsia
+Low,Low,Low,Large,Small,Decorative,Temperate,Indoor,Orchids
+Low,Low,Low,Large,Small,Decorative,Temperate,Outdoor,Daylilies
+Low,Low,Low,Large,Big,Edible,Tropical,Indoor,Lemon Grass
+Low,Low,Low,Large,Big,Edible,Tropical,Outdoor,Pineapple
+Low,Low,Low,Large,Big,Edible,Temperate,Indoor,Parsley
+Low,Low,Low,Large,Big,Edible,Temperate,Outdoor,Carrots
+Low,Low,Low,Large,Big,Decorative,Tropical,Indoor,Bird of Paradise
+Low,Low,Low,Large,Big,Decorative,Tropical,Outdoor,Plumeria
+Low,Low,Low,Large,Big,Decorative,Temperate,Indoor,Peace Lily
+Low,Low,Low,Large,Big,Decorative,Temperate,Outdoor,Lavender
+Low,Low,Low,Small,Small,Edible,Tropical,Indoor,Sweet Potato Vine
+Low,Low,Low,Small,Small,Edible,Tropical,Outdoor,Papaya
+Low,Low,Low,Small,Small,Edible,Temperate,Indoor,Kale
+Low,Low,Low,Small,Small,Edible,Temperate,Outdoor,Radishes
+Low,Low,Low,Small,Small,Decorative,Tropical,Indoor,Areca Palm
+Low,Low,Low,Small,Small,Decorative,Tropical,Outdoor,Bougainvillea
+Low,Low,Low,Small,Small,Decorative,Temperate,Indoor,Ficus Benjamina
+Low,Low,Low,Small,Small,Decorative,Temperate,Outdoor,Hydrangea
+Low,Low,Low,Small,Big,Edible,Tropical,Indoor,Chilli Pepper
+Low,Low,Low,Small,Big,Edible,Tropical,Outdoor,Mango
+Low,Low,Low,Small,Big,Edible,Temperate,Indoor,Spinach
+Low,Low,Low,Small,Big,Edible,Temperate,Outdoor,Tomatoes
+Low,Low,Low,Small,Big,Decorative,Tropical,Indoor,Orchid
+Low,Low,Low,Small,Big,Decorative,Tropical,Outdoor,Hibiscus
+Low,Low,Low,Small,Big,Decorative,Temperate,Indoor,Snake Plant
+Low,Low,Low,Small,Big,Decorative,Temperate,Outdoor,Clematis
