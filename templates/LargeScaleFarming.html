@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Agriculture - Large Scale Farming Recommendation</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            color: #2c3e50;
+            background-color: #f8f9fa;
+        }
+
+        /* Hero Section */
+        .hero-image {
+            background: radial-gradient(circle at center, #10ec17, #558567);
+            height: 70vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+            position: relative;
+            box-shadow: inset 0 0 1000px rgba(0, 0, 0, 0.4);
+        }
+
+        .hero-content h1 {
+            font-size: 4rem;
+            font-weight: 800;
+            text-shadow: 3px 3px 12px rgba(159, 32, 32, 0.3);
+        }
+
+        .hero-content p {
+            font-size: 1.5rem;
+            font-weight: 400;
+            text-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Form Container */
+        .intro-container {
+            background-color: #ffffff;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+            max-width: 700px;
+            margin: 30px auto; /* Added margin for spacing */
+            text-align: center;
+        }
+
+        h3 {
+            font-size: 36px;
+            color: #2e7d32;
+            font-weight: 700;
+        }
+
+        label {
+            font-size: 18px;
+            color: #333;
+            font-weight: 600;
+            margin-top: 15px;
+        }
+
+        .form-control {
+            font-size: 16px;
+            padding: 12px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            background-color: #fafafa;
+            transition: all 0.3s ease;
+        }
+
+        .form-control:focus {
+            border-color: #0288d1;
+            box-shadow: 0 0 10px rgba(0, 136, 255, 0.4);
+            background-color: #fff;
+        }
+
+        .cta-button {
+            background-color: #28a745;
+            color: white;
+            font-size: 20px;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            margin-top: 20px;
+        }
+
+        .cta-button:hover {
+            background-color: #218838;
+            transform: translateY(-5px);
+        }
+
+        footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        footer h5 {
+            font-size: 16px;
+        }
+
+        footer .font-weight-bold {
+            font-size: 18px;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .recommendation-section {
+            background-color: #eaf5e3;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            margin-top: 40px;
+        }
+
+        .recommendation-section h2 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #2e7d32;
+        }
+
+        .recommendation-section p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        .recommendation-section .label {
+            font-weight: 700;
+            color: #2e7d32;
+        }
+
+        .recommendation-section .recommendation-text {
+            background-color: #ffffff;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Smooth Form Transitions */
+        .form-control {
+            transition: 0.3s ease;
+        }
+
+        .form-control:focus {
+            border-color: #28a745;
+            box-shadow: 0 0 10px rgba(40, 167, 69, 0.5);
+            background-color: #fff;
+        }
+
+        /* Hero Section Enhancements */
+        .hero-image::before {
+            content: '';
+            background-image: url('https://via.placeholder.com/1920x1080/'); /* Add your background image */
+            background-size: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            opacity: 0.6;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero-image">
+        <div class="hero-content">
+            <h1>Smart Agriculture</h1>
+            <p>Your Perfect Planting Solution for Large Scale Farming</p>
+        </div>
+    </div>
+
+    <div class="container d-flex justify-content-center align-items-center" style="padding: 50px 0;">
+        <div class="intro-container">
+            <h3>Large-Scale AgriTech</h3>
+            <p>Find the Ideal Plant for Your Extensive Farming Operations.</p>
+        </div>
+    </div>
+
+    <div class="container" style="padding: 50px 0;">
+        <h1 class="text-center mb-4">Large Scale Farming Plant Recommendation</h1>
+        <p class="text-center mb-4">Provide details about your large-scale farm to get a tailored plant recommendation, along with insights into yield potential and pest resistance.</p>
+
+        <form method="POST" action="/LargeScaleFarming">
+            <div class="form-group">
+                <label for="average_size">Average Size:</label>
+                <select id="average_size" name="average_size" class="form-control" required>
+                    <option value="Less than 10 acres">Less than 10 acres</option>
+                    <option value="10 to 100 acres">10 to 100 acres</option>
+                    <option value="More than 100 acres">More than 100 acres</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="climate">Climate:</label>
+                <select id="climate" name="climate" class="form-control" required>
+                    <option value="Tropical">Tropical</option>
+                    <option value="Temperate">Temperate</option>
+                    <option value="Arid">Arid</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="soil_type">Soil Type:</label>
+                <select id="soil_type" name="soil_type" class="form-control" required>
+                    <option value="Loamy Soil">Loamy Soil</option>
+                    <option value="Clayey Soil">Clayey Soil</option>
+                    <option value="Sandy Soil">Sandy Soil</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="experience">Experience:</label>
+                <select id="experience" name="experience" class="form-control" required>
+                    <option value="New for Farming">New for Farming</option>
+                    <option value="Successful">Successful</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="labour_requirement">Labour Requirement:</label>
+                <select id="labour_requirement" name="labour_requirement" class="form-control" required>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="irrigation_system">Irrigation System:</label>
+                <select id="irrigation_system" name="irrigation_system" class="form-control" required>
+                    <option value="Fully Irrigated">Fully Irrigated</option>
+                    <option value="Partial Irrigation">Partial Irrigation</option>
+                    <option value="Rain-fed">Rain-fed</option>
+                </select>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="cta-button">Get Recommendation</button>
+            </div>
+        </form>
+
+        {% if recommended_plant %}
+        <div class="recommendation-section text-center">
+            <h2>Recommended Plant</h2>
+            <div class="recommendation-text">
+                <p><span class="label">Plant:</span> {{ recommended_plant }}</p>
+                {% if crop_yield_potential %}
+                <p><span class="label">Crop Yield Potential:</span> {{ crop_yield_potential }}</p>
+                {% endif %}
+                {% if pest_disease_resistance %}
+                <p><span class="label">Pest and Disease Resistance:</span> {{ pest_disease_resistance }}</p>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+    <footer>
+        <h5>&copy; 2025 Smart Agriculture | Contact Us | +1234567890</h5>
+        <div class="text-uppercase font-weight-bold">Go Green, Grow Smart</div>
+    </footer>
+</body>
+</html>

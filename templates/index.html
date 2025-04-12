@@ -1,0 +1,104 @@
+{% extends 'base.html' %}
+{% block title %} Home {% endblock title %}
+{% block body %}
+
+<div class="hero-image1">
+    <div class="hero-text1">
+        <h2 class="breadcrumbs text-white display-3" style="font-family: 'Amatic SC', cursive; font-weight: bolder;">
+            <span class="mr-2">Smart Agriculture Using Machine Learning Models</span>
+        </h2>
+        <p class="mb-0 bread font-weight-bold">
+            Unlock the potential of your farm with data-driven insights.
+        </p>
+        <p class="mb-2 bread font-weight-bold" style="font-size: 30px;">
+             Forged under the towering intellect of Prof. Noopa Jagadeesh and propelled by the indomitable leadership of Mrs. Lakshmipriya Jagadeesh, this project stands as a testament to visionary guidance and unparalleled command.
+        </p>
+        <br />
+        <p><a href="{{ url_for('UrbanGreenSpace') }}" class="btn view rounded-pill">Explore More</a></p>
+    </div>
+</div>
+<br />
+
+<section>
+    <div class="container">
+        <h1 class="text-center text-capitalize pt-5" style="font-family: 'Arima Madurai', cursive;">About Us</h1>
+        <hr class="w-25 mx-auto" />
+
+        <div class="row mb-5">
+            <div class="col-lg-6 col-md-6 col-12">
+                <figure class="snip1256">
+                    <img src="{{ url_for('static', filename='images/3.jpeg') }}" alt="sample42" style="width: 80%; height: auto; display: block; margin: 0 auto;" /> 
+                        <h3>Growing the Future</h3>
+                        <h4 class="mt-4 mb-4">Empowering Farmers with Hydroponics</h4>
+                        <a href="{{ url_for('aboutus') }}" class="read-more">Read More</a>
+                    </figcaption>
+                </figure>
+            </div>
+
+            <div class="col-lg-6" style="font-family: 'Arima Madurai', cursive;">
+                <h3 class="mt-4">
+                    Bypassing soil, hydroponics cultivates a future where precision meets potential, yielding resource-efficient harvests and amplified farmer prosperity. 
+                </h3>
+                <p class="mt-3" style="line-height: 1.6">
+                    Hydroponics isn't just growing plants; it's cultivating a revolution in resource management and crop predictability, directly sowing the seeds for increased profitability and a more sustainable agricultural landscape.
+                </p>
+                <p class="mt-3" style="line-height: 1.6">
+                    Our platform helps you navigate the complexities of modern agriculture, ensuring healthier crops, reduced risks, and ultimately, increased profitability. Join us in shaping the future of farming.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <h1 class="text-center text-capitalize pt-5" style="font-family: 'Arima Madurai', cursive;">Our Services</h1>
+        <hr class="w-25 mx-auto" />
+
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-12 mb-4">
+                <div class="card bg-dark text-white card1" style="font-family: 'Arima Madurai', cursive;">
+                    <img class="card-img-top" src="{{ url_for('static', filename='images/c.jpg') }}" alt="Urban GreenSpace Recommendation" />
+                    <div class="card-body">
+                        <h4 class="card-title">UrbanGreenSpace</h4>
+                        <p class="card-text">Get personalized recommendations for plants suitable for your urban gardening space and conditions.</p>
+                        <p><a href="{{ url_for('UrbanGreenSpace') }}" class="btn view rounded-pill">Explore Plants</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-12 mb-4">
+                <div class="card bg-dark text-white card1" style="font-family: 'Arima Madurai', cursive;">
+                    <img class="card-img-top" src="{{ url_for('static', filename='images/9.jpg') }}" alt="Fertilizer Recommendation" />
+                    <div class="card-body">
+                        <h4 class="card-title">Hydroponics</h4>
+                        <p class="card-text">Optimize nutrient application with our tailored fertilizer suggestions based on your soil and chosen crops.</p>
+                        <p><a href="{{ url_for('Hydroponics') }}" class="btn view rounded-pill">View Details</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-12 mb-4">
+                <div class="card bg-dark text-white card1" style="font-family: 'Arima Madurai', cursive;">
+                    <img class="card-img-top" src="{{ url_for('static', filename='images/b.jpg') }}" alt="Crop Disease Prediction" />
+                    <div class="card-body">
+                        <h4 class="card-title">Large Scale Farming</h4>
+                        <p class="card-text">Identify potential crop diseases early and get insights on causes and effective remedies.</p>
+                        <p><a href="{{ url_for('LargeScaleFarming') }}" class="btn view rounded-pill">View Details</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="page-footer font-small blue">
+    <div class="footer-copyright text-center py-3 bg-dark text-light p-2" style="background-image: url(https://www.excelsior.edu/wp-content/uploads/2020/08/Hydroponics_Blog.jpg);background-size: cover; height: 100px; background-position: center; position:center; font-family: 'Arima Madurai', cursive;">
+        <h5> © 2025 Copyright: Smart Agriculture - Durham College
+            <div class="text-center text-white text-uppercase font-weight-bold">Go Green....</div>
+        </h5>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+{% endblock body %}

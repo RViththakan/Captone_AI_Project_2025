@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Agriculture - Exotic Plant Recommendation</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            color: #2c3e50;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Hero Section */
+        .hero-image {
+            background: radial-gradient(circle at center, #10ec17, #558567);
+            height: 70vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+            position: relative;
+            box-shadow: inset 0 0 1000px rgba(0, 0, 0, 0.4);
+        }
+
+        .hero-content h1 {
+            font-size: 4.5rem;
+            font-weight: 800;
+            text-shadow: 3px 3px 12px rgba(159, 32, 32, 0.3);
+        }
+
+        .hero-content p {
+            font-size: 1.8rem;
+            font-weight: 400;
+            text-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Intro Section */
+        .intro-container {
+            background-color: #ffffff;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+            max-width: 700px;
+            margin: auto;
+            text-align: center;
+        }
+
+        h3 {
+            font-size: 36px;
+            color: #2e7d32;
+            font-weight: 700;
+        }
+
+        .intro-container p {
+            font-size: 1.2rem;
+            color: #333;
+            font-weight: 400;
+        }
+
+        /* Form Section */
+        .form-container {
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            margin-top: 40px;
+        }
+
+        .form-container h3 {
+            font-size: 32px;
+            color: #2e7d32;
+            font-weight: 700;
+        }
+
+        .form-container label {
+            font-size: 18px;
+            color: #333;
+            font-weight: 600;
+            margin-top: 15px;
+        }
+
+        .form-container select {
+            font-size: 16px;
+            padding: 12px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            background-color: #fafafa;
+            width: 100%;
+            transition: all 0.3s ease;
+        }
+
+        .form-container select:focus {
+            border-color: #28a745;
+            box-shadow: 0 0 10px rgba(0, 136, 255, 0.4);
+            background-color: #fff;
+        }
+
+        .form-container button {
+            background-color: #28a745;
+            color: white;
+            font-size: 20px;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            margin-top: 20px;
+            width: 100%;
+        }
+
+        .form-container button:hover {
+            background-color: #218838;
+            transform: translateY(-5px);
+        }
+
+        /* Footer Section */
+        footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            margin-top: 50px;
+            border-top: 3px solid #28a745;
+        }
+
+        footer h5 {
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        footer .text-uppercase {
+            font-size: 14px;
+            color: #aaa;
+        }
+
+        /* Additional Styling for Recommendations */
+        .recommendations {
+            background-color: #f4f6f7;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .recommendations h2 {
+            font-size: 24px;
+            font-weight: 700;
+            color: #2e7d32;
+        }
+
+        .recommendations ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .recommendations li {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <div class="hero-image">
+        <div class="hero-content">
+            <h1>Smart Agriculture</h1>
+            <p>Your Perfect Planting Solution</p>
+        </div>
+    </div>
+
+    <!-- Intro Section -->
+    <div class="container d-flex justify-content-center align-items-center" style="min-height: 60vh; padding: 50px 0;">
+        <div class="intro-container">
+            <h3>AgriMarket Insights</h3>
+            <p>Find a Perfect Match!</p>
+        </div>
+    </div>
+
+    <!-- Form Section -->
+    <div class="container">
+        <div class="form-container">
+            <h3>Find the Right Crop/Place to Sell</h3>
+            <form method="POST">
+                <label for="crop">Enter Crop Name:</label>
+                <select id="crop" name="Crop" required>
+                    <option value="Wheat">Wheat</option>
+                    <option value="Rice">Rice</option>
+                    <option value="Corn">Corn</option>
+                    <option value="Soybeans">Soybeans</option>
+                    <option value="Barley">Barley</option>
+                    <option value="Sunflower">Sunflower</option>
+                    <option value="Potatoes">Potatoes</option>
+                    <option value="Grapes">Grapes</option>
+                    <option value="Cotton">Cotton</option>
+                    <option value="Coffee">Coffee</option>
+                    <option value="Maize">Maize</option>
+                    <option value="Rubber">Rubber</option>
+                    <option value="Palm Oil">Palm Oil</option>
+                    <option value="Pepper">Pepper</option>
+                    <option value="Citrus Fruits">Citrus Fruits</option>
+                    <option value="Tomatoes">Tomatoes</option>
+                    <option value="Bananas">Bananas</option>
+                    <option value="Avocados">Avocados</option>
+                    <option value="Almonds">Almonds</option>
+                    <option value="Cocoa">Cocoa</option>
+                </select>
+                <button type="submit">Get Insights</button>
+            </form>
+
+            {% if recommendations %}
+                <div class="recommendations">
+                    <h2>Market Insights for {{ request.form.get('Crop') }}</h2>
+                    <ul>
+                        <li><strong>Best Selling Months:</strong> {{ recommendations['Best Selling Months'] }}</li>
+                        <li><strong>Peak Demand Regions:</strong> {{ recommendations['Peak Demand Regions'] }}</li>
+                        <li><strong>Market Insights:</strong> {{ recommendations['Market Insights'] }}</li>
+                    </ul>
+                </div>
+            {% elif recommendations is not none %}
+                <p>No data found for the entered crop.</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- Footer Section -->
+    <footer>
+        <h5>&copy; 2025 Smart Agriculture | Contact Us | +1234567890</h5>
+        <div class="text-uppercase font-weight-bold">Go Green, Grow Smart</div>
+    </footer>
+</body>
+</html>

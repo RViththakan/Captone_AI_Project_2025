@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Plant Recommendation</title>
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            color: #2c3e50;
+            background-color: #f8f9fa;
+        }
+
+        /* Hero Section */
+        .hero-image {
+            background: radial-gradient(circle at center, #10ec17, #558567);
+            height: 70vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+            position: relative;
+            box-shadow: inset 0 0 1000px rgba(0, 0, 0, 0.4);
+        }
+
+        .hero-content h1 {
+            font-size: 4rem;
+            font-weight: 800;
+            text-shadow: 3px 3px 12px rgba(159, 32, 32, 0.3);
+        }
+
+        .hero-content p {
+            font-size: 1.5rem;
+            font-weight: 400;
+            text-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Intro and Form Container */
+        .intro-container {
+            background-color: #ffffff;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+            max-width: 700px;
+            margin: auto;
+            text-align: center;
+        }
+
+        h3 {
+            font-size: 36px;
+            color: #2e7d32;
+            font-weight: 700;
+        }
+
+        label {
+            font-size: 18px;
+            color: #333;
+            font-weight: 600;
+            margin-top: 15px;
+        }
+
+        .form-control {
+            font-size: 16px;
+            padding: 12px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            background-color: #fafafa;
+            transition: all 0.3s ease;
+        }
+
+        .form-control:focus {
+            border-color: #0288d1;
+            box-shadow: 0 0 10px rgba(0, 136, 255, 0.4);
+            background-color: #fff;
+        }
+
+        .cta-button {
+            background-color: #28a745;
+            color: white;
+            font-size: 20px;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            margin-top: 20px;
+        }
+
+        .cta-button:hover {
+            background-color: #218838;
+            transform: translateY(-5px);
+        }
+
+        footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero-image">
+        <div class="hero-content">
+            <h1>Smart Home Garden</h1>
+            <p>Your Perfect Planting Solution</p>
+        </div>
+    </div>
+    
+    <div class="container d-flex justify-content-center align-items-center" style="min-height: 60vh; padding: 50px 0;">
+        <div class="intro-container">
+            <h3>Guide to Exotic Plants</h3>
+            <p>Your one-stop solution for growing exotic plants.</p>
+        </div>
+    </div>
+
+    <div class="intro-container">       
+        <h3>Find the Right Exotic Plant for Your place </h3>
+        <p>Answer a few simple questions to discover the ideal plant for your space, preferences, and care level.</p>
+    
+        <form method="POST">
+            <label for="maintenance">How much maintenance are you willing to provide for the plant?</label>
+            <select name="maintenance" id="maintenance" class="form-control">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+            
+            <label for="water_requirement">How much water can you provide for the plant?</label>
+            <select name="water_requirement" id="water_requirement" class="form-control">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+            
+            <label for="growth_habit"> What type of growth habit do you prefer</label>
+            <select name="growth_habit" id="growth_habit" class="form-control">
+                <option value="Tree">Tree</option>
+                <option value="Shrub">Shrub</option>
+                <option value="Vine">Vine</option>
+                <option value="Ground cover">Ground Cover</option>
+                <option value="Herbaceous">Herbaceous</option>
+                <option value="Grass">Grass</option>
+            </select>
+            
+            <label for="size_height">What size and height should the plant be?</label>
+            <select name="size_height" id="size_height" class="form-control">
+                <option value="Small">Small</option>
+                <option value="Medium">Medium</option>
+                <option value="Dwarf">Dwarf</option>
+                <option value="Large">Large</option>
+                <option value="Tall">Tall</option>
+            </select>
+            
+            <label for="uses">What will the plant be used for food or decoration?</label>
+            <select name="uses" id="uses" class="form-control">
+                <option value="Ornamental">Ornamental</option>
+                <option value="Medicinal">Medicinal</option>
+                <option value="Commercial">Commercial</option>
+            </select>
+            
+            <button type="submit" class="cta-button">Recommend Plant</button>
+        </form>
+
+        {% if prediction %}
+            <h2>Based on your preferences, the recommended plant is {{ prediction }}</h2>
+        {% endif %}
+
+        {% if error %}
+            <p style="color: red;">{{ error }}</p>
+        {% endif %}
+    </div>
+
+    <footer>
+        <h5>&copy; 2025 Smart Agriculture | Contact Us | +1234567890</h5>
+        <div class="text-uppercase font-weight-bold">Go Green, Grow Smart</div>
+    </footer>
+</body>
+</html>
